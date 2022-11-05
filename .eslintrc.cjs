@@ -18,5 +18,6 @@ module.exports = {
     'import/no-extraneous-dependencies': ['error', { devDependencies: true }],
     'vue/multi-word-component-names': 'off',
     'no-plusplus': 'off',
+    'arrow-parens': ['error', 'as-needed'],
   },
 };

@@ -22,6 +22,10 @@ export default createRouter({
       ],
     },
     {
+      path: '/about',
+      component: () => import('../pages/About/index.vue'),
+    },
+    {
       path: '/',
       redirect: '/geo-graph',
     },

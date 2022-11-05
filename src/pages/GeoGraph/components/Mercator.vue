@@ -1,47 +1,37 @@
 <script setup>
 import { ref, onMounted } from 'vue';
-import { select, geoMercator, geoPath } from 'd3';
-import world from '../../../assets/data/countries.json';
+import useWorldStore from '../../../stores/world';
 
-function getRandomColor() {
-  const letters = '0123456789ABCDEF';
-  let color = '#';
-  for (let i = 0; i < 6; i++) {
-    color += letters[Math.floor(Math.random() * 16)];
-  }
-  return color;
-}
+const {
+  getRandomColor, getPathGenerator, world,
+} = useWorldStore();
 
-const svg = ref();
 const wrapper = ref();
+const width = ref();
+const pathGenerator = ref();
 
-onMounted(() => {
-  const { width } = wrapper.value.getBoundingClientRect();
-  const radius = width - 20;
-
-  const projection = geoMercator()
-    .scale(200)
-    .translate([width / 2, width / 2]);
-
-  const path = geoPath().projection(projection);
-
-  select(svg.value)
-    .attr('width', radius)
-    .attr('height', radius)
-    .selectAll('path')
-    .data(world.features, (d) => d.id)
-    .enter()
-    .append('path')
-    .attr('d', path)
-    .attr('fill', () => getRandomColor());
+onMounted(async () => {
+  const { width: w } = wrapper.value.getBoundingClientRect();
+  width.value = w - 50;
+  pathGenerator.value = await getPathGenerator('2d', width.value, width.value);
 });
 </script>
 
 <template>
   <div ref="wrapper">
-    <svg ref="svg"></svg>
+    <svg v-if="pathGenerator" :width="width" :height="width">
+      <path v-for="d in world"
+        :key="d.id"
+        :d="pathGenerator(d)"
+        :fill="getRandomColor()"
+      />
+    </svg>
   </div>
 </template>
 
 <style scoped lang="scss">
+div {
+  display: flex;
+  justify-content: center;
+}
 </style>

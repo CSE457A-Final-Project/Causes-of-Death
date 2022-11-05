@@ -1,4 +1,8 @@
 <script setup>
+const items = [
+  { path: '/geo-graph', text: 'Geo Graph', icon: 'world' },
+  { path: '/about', text: 'About', icon: 'about' },
+];
 </script>
 
 <template>
@@ -11,11 +15,17 @@
     </header>
     <hr>
     <div class="routes">
-      <RouterLink to="/geo-graph" class="route" activeClass="active-route">
+      <RouterLink
+        v-for="item in items"
+        :key="item.path"
+        :to="item.path"
+        class="route"
+        activeClass="active-route"
+      >
         <div class="icon-wrapper">
-          <icon name="world" fill="white" size="1em"/>
+          <icon :name="item.icon" fill="white" size="1em"/>
         </div>
-        <p>Geo Graph</p>
+        <p>{{item.text}}</p>
       </RouterLink>
     </div>
   </aside>
