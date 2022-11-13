@@ -1,6 +1,7 @@
 <script setup>
 const items = [
   { path: '/geo-graph', text: 'Geo Graph', icon: 'world' },
+  { path: '/test-graph', text: 'Test Graph', icon: 'heart-rate' },
   { path: '/about', text: 'About', icon: 'about' },
 ];
 </script>

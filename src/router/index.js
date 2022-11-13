@@ -22,12 +22,21 @@ export default createRouter({
       ],
     },
     {
+      // to be replaced
+      path: '/test-graph',
+      component: () => import('../pages/TestGraph/TestGraph.vue'),
+    },
+    {
       path: '/about',
       component: () => import('../pages/About/index.vue'),
     },
     {
       path: '/',
       redirect: '/geo-graph',
+    },
+    {
+      path: '/:catchAll(.*)',
+      redirect: '/'
     },
   ],
 });
