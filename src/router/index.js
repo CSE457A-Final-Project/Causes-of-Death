@@ -30,6 +30,10 @@ export default createRouter({
       component: () => import('../pages/Video/index.vue'),
     },
     {
+      path: '/about',
+      component: () => import('../pages/About/index.vue'),
+    },
+    {
       path: '/',
       redirect: '/geo-graph',
     },
