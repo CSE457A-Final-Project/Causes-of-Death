@@ -1,0 +1,18 @@
+name: Build Vue
+on: 
+  push:
+    branches: 
+      - main
+jobs:
+  build_vue:
+    runs-on: ubuntu-latest
+    name: Build Vue
+    steps:
+    - uses: actions/checkout@v3
+    - id: Build-Vue
+      uses: KrisCris/VuePagesAction@1.0.1
+      with:
+        username: 'csex57'
+        reponame: 'causeofdeath'
+        token: ${{ secrets.GITHUB_TOKEN }}
+        options: '--base=/causeofdeath/'

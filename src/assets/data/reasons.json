@@ -1,0 +1,4712 @@
+{
+    "1990": {
+        "Meningitis": [
+            432253,
+            "Meningitis",
+            0.9932622702483697
+        ],
+        "Alzheimer's Disease and Other Dementias": [
+            560616,
+            "Alzheimer's Disease and Other Dementias",
+            1.2882240745525422
+        ],
+        "Parkinson's Disease": [
+            147156,
+            "Parkinson's Disease",
+            0.3381457216969439
+        ],
+        "Nutritional Deficiencies": [
+            756808,
+            "Nutritional Deficiencies",
+            1.7390482708555595
+        ],
+        "Malaria": [
+            840297,
+            "Malaria",
+            1.9308953457879858
+        ],
+        "Drowning": [
+            460460,
+            "Drowning",
+            1.0580783591058114
+        ],
+        "Interpersonal Violence": [
+            372497,
+            "Interpersonal Violence",
+            0.8559506027273541
+        ],
+        "Maternal Disorders": [
+            302419,
+            "Maternal Disorders",
+            0.6949202955358128
+        ],
+        "HIV/AIDS": [
+            336059,
+            "HIV/AIDS",
+            0.7722207255412845
+        ],
+        "Drug Use Disorders": [
+            56133,
+            "Drug Use Disorders",
+            0.1289864755498556
+        ],
+        "Tuberculosis": [
+            1776727,
+            "Tuberculosis",
+            4.082692066062179
+        ],
+        "Cardiovascular Diseases": [
+            12062179,
+            "Cardiovascular Diseases",
+            27.717349093429565
+        ],
+        "Lower Respiratory Infections": [
+            3318264,
+            "Lower Respiratory Infections",
+            7.6249475051033455
+        ],
+        "Neonatal Disorders": [
+            3004581,
+            "Neonatal Disorders",
+            6.904143974027055
+        ],
+        "Alcohol Use Disorders": [
+            116390,
+            "Alcohol Use Disorders",
+            0.2674493771800491
+        ],
+        "Self-harm": [
+            738804,
+            "Self-harm",
+            1.6976773748443075
+        ],
+        "Exposure to Forces of Nature": [
+            50216,
+            "Exposure to Forces of Nature",
+            0.11538996412469579
+        ],
+        "Diarrheal Diseases": [
+            2894957,
+            "Diarrheal Diseases",
+            6.65224200200209
+        ],
+        "Environmental Heat and Cold Exposure": [
+            55072,
+            "Environmental Heat and Cold Exposure",
+            0.12654843285556888
+        ],
+        "Neoplasms": [
+            5752596,
+            "Neoplasms",
+            13.21873199904151
+        ],
+        "Conflict and Terrorism": [
+            116286,
+            "Conflict and Terrorism",
+            0.2672103984428146
+        ],
+        "Diabetes Mellitus": [
+            661085,
+            "Diabetes Mellitus",
+            1.5190890240834498
+        ],
+        "Chronic Kidney Disease": [
+            600925,
+            "Chronic Kidney Disease",
+            1.380849016083177
+        ],
+        "Poisonings": [
+            87951,
+            "Poisonings",
+            0.2021001819087765
+        ],
+        "Protein-Energy Malnutrition": [
+            655975,
+            "Protein-Energy Malnutrition",
+            1.507346895744331
+        ],
+        "Road Injuries": [
+            1112770,
+            "Road Injuries",
+            2.557003552235099
+        ],
+        "Chronic Respiratory Diseases": [
+            3092759,
+            "Chronic Respiratory Diseases",
+            7.106765772987296
+        ],
+        "Cirrhosis and Other Chronic Liver Diseases": [
+            1012423,
+            "Cirrhosis and Other Chronic Liver Diseases",
+            2.3264189431459474
+        ],
+        "Digestive Diseases": [
+            1854392,
+            "Digestive Diseases",
+            4.261156331709473
+        ],
+        "Fire, Heat, and Hot Substances": [
+            123123,
+            "Fire, Heat, and Hot Substances",
+            0.28292095254351046
+        ],
+        "Acute Hepatitis": [
+            166343,
+            "Acute Hepatitis",
+            0.38223500084423834
+        ]
+    },
+    "1991": {
+        "Meningitis": [
+            428621,
+            "Meningitis",
+            0.9728180579594576
+        ],
+        "Alzheimer's Disease and Other Dementias": [
+            583166,
+            "Alzheimer's Disease and Other Dementias",
+            1.3235805422225815
+        ],
+        "Parkinson's Disease": [
+            150875,
+            "Parkinson's Disease",
+            0.3424328824174111
+        ],
+        "Nutritional Deficiencies": [
+            729145,
+            "Nutritional Deficiencies",
+            1.6549012364556304
+        ],
+        "Malaria": [
+            858984,
+            "Malaria",
+            1.9495898397377796
+        ],
+        "Drowning": [
+            454375,
+            "Drowning",
+            1.0312705282413335
+        ],
+        "Interpersonal Violence": [
+            383689,
+            "Interpersonal Violence",
+            0.8708383113296044
+        ],
+        "Maternal Disorders": [
+            298271,
+            "Maternal Disorders",
+            0.6769696654284914
+        ],
+        "HIV/AIDS": [
+            430725,
+            "HIV/AIDS",
+            0.9775933937314957
+        ],
+        "Drug Use Disorders": [
+            61890,
+            "Drug Use Disorders",
+            0.1404684082373725
+        ],
+        "Tuberculosis": [
+            1786389,
+            "Tuberculosis",
+            4.054471147564253
+        ],
+        "Cardiovascular Diseases": [
+            12220282,
+            "Cardiovascular Diseases",
+            27.735717575566564
+        ],
+        "Lower Respiratory Infections": [
+            3282941,
+            "Lower Respiratory Infections",
+            7.451114826421197
+        ],
+        "Neonatal Disorders": [
+            2975087,
+            "Neonatal Disorders",
+            6.752395140696395
+        ],
+        "Alcohol Use Disorders": [
+            122478,
+            "Alcohol Use Disorders",
+            0.27798173701885454
+        ],
+        "Self-harm": [
+            752575,
+            "Self-harm",
+            1.7080790487839816
+        ],
+        "Exposure to Forces of Nature": [
+            156552,
+            "Exposure to Forces of Nature",
+            0.3553176643460517
+        ],
+        "Diarrheal Diseases": [
+            2903085,
+            "Diarrheal Diseases",
+            6.5889760692808625
+        ],
+        "Environmental Heat and Cold Exposure": [
+            56658,
+            "Environmental Heat and Cold Exposure",
+            0.12859361890310309
+        ],
+        "Neoplasms": [
+            5867965,
+            "Neoplasms",
+            13.318204930402544
+        ],
+        "Conflict and Terrorism": [
+            85017,
+            "Conflict and Terrorism",
+            0.19295851774303924
+        ],
+        "Diabetes Mellitus": [
+            679630,
+            "Diabetes Mellitus",
+            1.542519700926894
+        ],
+        "Chronic Kidney Disease": [
+            613589,
+            "Chronic Kidney Disease",
+            1.3926299909833761
+        ],
+        "Poisonings": [
+            87813,
+            "Poisonings",
+            0.19930444874048137
+        ],
+        "Protein-Energy Malnutrition": [
+            631013,
+            "Protein-Energy Malnutrition",
+            1.432176307757136
+        ],
+        "Road Injuries": [
+            1117024,
+            "Road Injuries",
+            2.5352493656962802
+        ],
+        "Chronic Respiratory Diseases": [
+            3148288,
+            "Chronic Respiratory Diseases",
+            7.145500145949605
+        ],
+        "Cirrhosis and Other Chronic Liver Diseases": [
+            1026870,
+            "Cirrhosis and Other Chronic Liver Diseases",
+            2.3306316750155225
+        ],
+        "Digestive Diseases": [
+            1877515,
+            "Digestive Diseases",
+            4.261294934428671
+        ],
+        "Fire, Heat, and Hot Substances": [
+            123941,
+            "Fire, Heat, and Hot Substances",
+            0.2813022295257422
+        ],
+        "Acute Hepatitis": [
+            165276,
+            "Acute Hepatitis",
+            0.3751180584882853
+        ]
+    },
+    "1992": {
+        "Meningitis": [
+            426440,
+            "Meningitis",
+            0.9591730652399181
+        ],
+        "Alzheimer's Disease and Other Dementias": [
+            605894,
+            "Alzheimer's Disease and Other Dementias",
+            1.362811193111516
+        ],
+        "Parkinson's Disease": [
+            154886,
+            "Parkinson's Disease",
+            0.3483783870714519
+        ],
+        "Nutritional Deficiencies": [
+            700664,
+            "Nutritional Deficiencies",
+            1.575973259035883
+        ],
+        "Malaria": [
+            856415,
+            "Malaria",
+            1.9262972532301015
+        ],
+        "Drowning": [
+            447056,
+            "Drowning",
+            1.0055437432086503
+        ],
+        "Interpersonal Violence": [
+            407176,
+            "Interpersonal Violence",
+            0.9158433824503539
+        ],
+        "Maternal Disorders": [
+            299300,
+            "Maternal Disorders",
+            0.6732025570450884
+        ],
+        "HIV/AIDS": [
+            540070,
+            "HIV/AIDS",
+            1.214756114210962
+        ],
+        "Drug Use Disorders": [
+            66826,
+            "Drug Use Disorders",
+            0.15030883420345834
+        ],
+        "Tuberculosis": [
+            1807740,
+            "Tuberculosis",
+            4.066071468335075
+        ],
+        "Cardiovascular Diseases": [
+            12437979,
+            "Cardiovascular Diseases",
+            27.976208711236588
+        ],
+        "Lower Respiratory Infections": [
+            3258792,
+            "Lower Respiratory Infections",
+            7.3298600309992565
+        ],
+        "Neonatal Disorders": [
+            2950376,
+            "Neonatal Disorders",
+            6.636153249062679
+        ],
+        "Alcohol Use Disorders": [
+            131665,
+            "Alcohol Use Disorders",
+            0.2961483951665271
+        ],
+        "Self-harm": [
+            770286,
+            "Self-harm",
+            1.732571015222295
+        ],
+        "Exposure to Forces of Nature": [
+            12030,
+            "Exposure to Forces of Nature",
+            0.027058559175584408
+        ],
+        "Diarrheal Diseases": [
+            2871809,
+            "Diarrheal Diseases",
+            6.459435890895751
+        ],
+        "Environmental Heat and Cold Exposure": [
+            59926,
+            "Environmental Heat and Cold Exposure",
+            0.13478896235711316
+        ],
+        "Neoplasms": [
+            5996098,
+            "Neoplasms",
+            13.486764135960374
+        ],
+        "Conflict and Terrorism": [
+            62063,
+            "Conflict and Terrorism",
+            0.1395956241159015
+        ],
+        "Diabetes Mellitus": [
+            702253,
+            "Diabetes Mellitus",
+            1.5795473280741212
+        ],
+        "Chronic Kidney Disease": [
+            630160,
+            "Chronic Kidney Disease",
+            1.417391658361286
+        ],
+        "Poisonings": [
+            88435,
+            "Poisonings",
+            0.1989130241639906
+        ],
+        "Protein-Energy Malnutrition": [
+            606015,
+            "Protein-Energy Malnutrition",
+            1.3630833531830244
+        ],
+        "Road Injuries": [
+            1125566,
+            "Road Injuries",
+            2.5316869673338185
+        ],
+        "Chronic Respiratory Diseases": [
+            3207816,
+            "Chronic Respiratory Diseases",
+            7.215201916906606
+        ],
+        "Cirrhosis and Other Chronic Liver Diseases": [
+            1042953,
+            "Cirrhosis and Other Chronic Liver Diseases",
+            2.3458691161972802
+        ],
+        "Digestive Diseases": [
+            1903759,
+            "Digestive Diseases",
+            4.28204285598931
+        ],
+        "Fire, Heat, and Hot Substances": [
+            124995,
+            "Fire, Heat, and Hot Substances",
+            0.28114585238172674
+        ],
+        "Acute Hepatitis": [
+            163687,
+            "Acute Hepatitis",
+            0.3681740960743046
+        ]
+    },
+    "1993": {
+        "Meningitis": [
+            420836,
+            "Meningitis",
+            0.931347481448395
+        ],
+        "Alzheimer's Disease and Other Dementias": [
+            629571,
+            "Alzheimer's Disease and Other Dementias",
+            1.3932965935493815
+        ],
+        "Parkinson's Disease": [
+            160249,
+            "Parkinson's Disease",
+            0.35464528356562613
+        ],
+        "Nutritional Deficiencies": [
+            674219,
+            "Nutritional Deficiencies",
+            1.4921065868762544
+        ],
+        "Malaria": [
+            862216,
+            "Malaria",
+            1.9081606613134554
+        ],
+        "Drowning": [
+            445434,
+            "Drowning",
+            0.9857850422765266
+        ],
+        "Interpersonal Violence": [
+            432858,
+            "Interpersonal Violence",
+            0.9579532362364184
+        ],
+        "Maternal Disorders": [
+            293564,
+            "Maternal Disorders",
+            0.6496832306264593
+        ],
+        "HIV/AIDS": [
+            664463,
+            "HIV/AIDS",
+            1.4705156915417048
+        ],
+        "Drug Use Disorders": [
+            71603,
+            "Drug Use Disorders",
+            0.1584638046986223
+        ],
+        "Tuberculosis": [
+            1774711,
+            "Tuberculosis",
+            3.927593219564777
+        ],
+        "Cardiovascular Diseases": [
+            12802108,
+            "Cardiovascular Diseases",
+            28.33220314571555
+        ],
+        "Lower Respiratory Infections": [
+            3226972,
+            "Lower Respiratory Infections",
+            7.1415759224602695
+        ],
+        "Neonatal Disorders": [
+            2924485,
+            "Neonatal Disorders",
+            6.472145299555193
+        ],
+        "Alcohol Use Disorders": [
+            143901,
+            "Alcohol Use Disorders",
+            0.3184657061846075
+        ],
+        "Self-harm": [
+            791904,
+            "Self-harm",
+            1.7525539543881936
+        ],
+        "Exposure to Forces of Nature": [
+            21369,
+            "Exposure to Forces of Nature",
+            0.04729149676137676
+        ],
+        "Diarrheal Diseases": [
+            2798615,
+            "Diarrheal Diseases",
+            6.1935837993748155
+        ],
+        "Environmental Heat and Cold Exposure": [
+            66812,
+            "Environmental Heat and Cold Exposure",
+            0.14786089576588068
+        ],
+        "Neoplasms": [
+            6167069,
+            "Neoplasms",
+            13.64827196596411
+        ],
+        "Conflict and Terrorism": [
+            62733,
+            "Conflict and Terrorism",
+            0.13883370613184748
+        ],
+        "Diabetes Mellitus": [
+            728077,
+            "Diabetes Mellitus",
+            1.6112991289968137
+        ],
+        "Chronic Kidney Disease": [
+            647255,
+            "Chronic Kidney Disease",
+            1.432432857704381
+        ],
+        "Poisonings": [
+            90036,
+            "Poisonings",
+            0.19925767244172954
+        ],
+        "Protein-Energy Malnutrition": [
+            583919,
+            "Protein-Energy Malnutrition",
+            1.2922646589642173
+        ],
+        "Road Injuries": [
+            1137444,
+            "Road Injuries",
+            2.5172646938203673
+        ],
+        "Chronic Respiratory Diseases": [
+            3266612,
+            "Chronic Respiratory Diseases",
+            7.229302766562519
+        ],
+        "Cirrhosis and Other Chronic Liver Diseases": [
+            1067730,
+            "Cirrhosis and Other Chronic Liver Diseases",
+            2.3629814140589085
+        ],
+        "Digestive Diseases": [
+            1939556,
+            "Digestive Diseases",
+            4.292409859727122
+        ],
+        "Fire, Heat, and Hot Substances": [
+            127493,
+            "Fire, Heat, and Hot Substances",
+            0.28215334346942805
+        ],
+        "Acute Hepatitis": [
+            161899,
+            "Acute Hepatitis",
+            0.35829688025504874
+        ]
+    },
+    "1994": {
+        "Meningitis": [
+            413799,
+            "Meningitis",
+            0.8960060358646229
+        ],
+        "Alzheimer's Disease and Other Dementias": [
+            652176,
+            "Alzheimer's Disease and Other Dementias",
+            1.4121678216864861
+        ],
+        "Parkinson's Disease": [
+            164381,
+            "Parkinson's Disease",
+            0.3559369843365078
+        ],
+        "Nutritional Deficiencies": [
+            649801,
+            "Nutritional Deficiencies",
+            1.4070251936589209
+        ],
+        "Malaria": [
+            855671,
+            "Malaria",
+            1.8527990176735996
+        ],
+        "Drowning": [
+            443350,
+            "Drowning",
+            0.9599933204299202
+        ],
+        "Interpersonal Violence": [
+            441971,
+            "Interpersonal Violence",
+            0.957007348198336
+        ],
+        "Maternal Disorders": [
+            293148,
+            "Maternal Disorders",
+            0.6347583667472432
+        ],
+        "HIV/AIDS": [
+            800169,
+            "HIV/AIDS",
+            1.7326195899742616
+        ],
+        "Drug Use Disorders": [
+            76717,
+            "Drug Use Disorders",
+            0.16611662921714718
+        ],
+        "Tuberculosis": [
+            1753811,
+            "Tuberculosis",
+            3.7975568857483224
+        ],
+        "Cardiovascular Diseases": [
+            13026289,
+            "Cardiovascular Diseases",
+            28.20604585539584
+        ],
+        "Lower Respiratory Infections": [
+            3187285,
+            "Lower Respiratory Infections",
+            6.901482599089835
+        ],
+        "Neonatal Disorders": [
+            2896505,
+            "Neonatal Disorders",
+            6.271851703150707
+        ],
+        "Alcohol Use Disorders": [
+            153859,
+            "Alcohol Use Disorders",
+            0.33315351818659544
+        ],
+        "Self-harm": [
+            817682,
+            "Self-harm",
+            1.770540787720262
+        ],
+        "Exposure to Forces of Nature": [
+            12717,
+            "Exposure to Forces of Nature",
+            0.027536337105914733
+        ],
+        "Diarrheal Diseases": [
+            2740299,
+            "Diarrheal Diseases",
+            5.933616185814345
+        ],
+        "Environmental Heat and Cold Exposure": [
+            72305,
+            "Environmental Heat and Cold Exposure",
+            0.15656325032972906
+        ],
+        "Neoplasms": [
+            6296066,
+            "Neoplasms",
+            13.63297914736873
+        ],
+        "Conflict and Terrorism": [
+            566082,
+            "Conflict and Terrorism",
+            1.2257470143579794
+        ],
+        "Diabetes Mellitus": [
+            751254,
+            "Diabetes Mellitus",
+            1.6267031057770596
+        ],
+        "Chronic Kidney Disease": [
+            665365,
+            "Chronic Kidney Disease",
+            1.4407261884467213
+        ],
+        "Poisonings": [
+            90897,
+            "Poisonings",
+            0.1968208251880421
+        ],
+        "Protein-Energy Malnutrition": [
+            564046,
+            "Protein-Energy Malnutrition",
+            1.2213384288151907
+        ],
+        "Road Injuries": [
+            1153642,
+            "Road Injuries",
+            2.4980007086216625
+        ],
+        "Chronic Respiratory Diseases": [
+            3297292,
+            "Chronic Respiratory Diseases",
+            7.139682633375466
+        ],
+        "Cirrhosis and Other Chronic Liver Diseases": [
+            1089331,
+            "Cirrhosis and Other Chronic Liver Diseases",
+            2.358747002903452
+        ],
+        "Digestive Diseases": [
+            1967669,
+            "Digestive Diseases",
+            4.260627262472134
+        ],
+        "Fire, Heat, and Hot Substances": [
+            129611,
+            "Fire, Heat, and Hot Substances",
+            0.2806489100129523
+        ],
+        "Acute Hepatitis": [
+            159423,
+            "Acute Hepatitis",
+            0.34520134233201577
+        ]
+    },
+    "1995": {
+        "Meningitis": [
+            409826,
+            "Meningitis",
+            0.8875107526432304
+        ],
+        "Alzheimer's Disease and Other Dementias": [
+            674815,
+            "Alzheimer's Disease and Other Dementias",
+            1.4613654783858065
+        ],
+        "Parkinson's Disease": [
+            168882,
+            "Parkinson's Disease",
+            0.36572738412861566
+        ],
+        "Nutritional Deficiencies": [
+            723095,
+            "Nutritional Deficiencies",
+            1.5659196529321142
+        ],
+        "Malaria": [
+            862626,
+            "Malaria",
+            1.8680851154139058
+        ],
+        "Drowning": [
+            437303,
+            "Drowning",
+            0.9470143784512027
+        ],
+        "Interpersonal Violence": [
+            444246,
+            "Interpersonal Violence",
+            0.962049996385648
+        ],
+        "Maternal Disorders": [
+            290551,
+            "Maternal Disorders",
+            0.6292112669553499
+        ],
+        "HIV/AIDS": [
+            938440,
+            "HIV/AIDS",
+            2.0322663537953014
+        ],
+        "Drug Use Disorders": [
+            79985,
+            "Drug Use Disorders",
+            0.17321387015506284
+        ],
+        "Tuberculosis": [
+            1738759,
+            "Tuberculosis",
+            3.765420712095355
+        ],
+        "Cardiovascular Diseases": [
+            13129252,
+            "Cardiovascular Diseases",
+            28.432437971633423
+        ],
+        "Lower Respiratory Infections": [
+            3148775,
+            "Lower Respiratory Infections",
+            6.818922347909083
+        ],
+        "Neonatal Disorders": [
+            2873608,
+            "Neonatal Disorders",
+            6.223026354798398
+        ],
+        "Alcohol Use Disorders": [
+            156714,
+            "Alcohol Use Disorders",
+            0.33937661370857686
+        ],
+        "Self-harm": [
+            825922,
+            "Self-harm",
+            1.7885996882691733
+        ],
+        "Exposure to Forces of Nature": [
+            19169,
+            "Exposure to Forces of Nature",
+            0.04151199196102269
+        ],
+        "Diarrheal Diseases": [
+            2673263,
+            "Diarrheal Diseases",
+            5.789163345281413
+        ],
+        "Environmental Heat and Cold Exposure": [
+            72635,
+            "Environmental Heat and Cold Exposure",
+            0.157296861395424
+        ],
+        "Neoplasms": [
+            6402881,
+            "Neoplasms",
+            13.86594734203062
+        ],
+        "Conflict and Terrorism": [
+            67210,
+            "Conflict and Terrorism",
+            0.14554859302521442
+        ],
+        "Diabetes Mellitus": [
+            773490,
+            "Diabetes Mellitus",
+            1.6750540279582364
+        ],
+        "Chronic Kidney Disease": [
+            683701,
+            "Chronic Kidney Disease",
+            1.4806088171392964
+        ],
+        "Poisonings": [
+            90353,
+            "Poisonings",
+            0.19566659761355745
+        ],
+        "Protein-Energy Malnutrition": [
+            641084,
+            "Protein-Energy Malnutrition",
+            1.3883183188658912
+        ],
+        "Road Injuries": [
+            1162799,
+            "Road Injuries",
+            2.5181335875781325
+        ],
+        "Chronic Respiratory Diseases": [
+            3313295,
+            "Chronic Respiratory Diseases",
+            7.175203474594223
+        ],
+        "Cirrhosis and Other Chronic Liver Diseases": [
+            1104380,
+            "Cirrhosis and Other Chronic Liver Diseases",
+            2.3916226032612156
+        ],
+        "Digestive Diseases": [
+            1984263,
+            "Digestive Diseases",
+            4.297079122779214
+        ],
+        "Fire, Heat, and Hot Substances": [
+            128523,
+            "Fire, Heat, and Hot Substances",
+            0.2783267641925254
+        ],
+        "Acute Hepatitis": [
+            157173,
+            "Acute Hepatitis",
+            0.3403706146637706
+        ]
+    },
+    "1996": {
+        "Meningitis": [
+            417259,
+            "Meningitis",
+            0.9008021380965413
+        ],
+        "Alzheimer's Disease and Other Dementias": [
+            696665,
+            "Alzheimer's Disease and Other Dementias",
+            1.5039994860195394
+        ],
+        "Parkinson's Disease": [
+            173822,
+            "Parkinson's Disease",
+            0.3752566852919098
+        ],
+        "Nutritional Deficiencies": [
+            671977,
+            "Nutritional Deficiencies",
+            1.4507016465832963
+        ],
+        "Malaria": [
+            872476,
+            "Malaria",
+            1.8835501360975269
+        ],
+        "Drowning": [
+            423296,
+            "Drowning",
+            0.9138351523818864
+        ],
+        "Interpersonal Violence": [
+            432673,
+            "Interpersonal Violence",
+            0.9340787460465677
+        ],
+        "Maternal Disorders": [
+            287746,
+            "Maternal Disorders",
+            0.6212022078103225
+        ],
+        "HIV/AIDS": [
+            1061580,
+            "HIV/AIDS",
+            2.291798460334052
+        ],
+        "Drug Use Disorders": [
+            81704,
+            "Drug Use Disorders",
+            0.17638717892493586
+        ],
+        "Tuberculosis": [
+            1720903,
+            "Tuberculosis",
+            3.7151819418077316
+        ],
+        "Cardiovascular Diseases": [
+            13213565,
+            "Cardiovascular Diseases",
+            28.526185424107386
+        ],
+        "Lower Respiratory Infections": [
+            3091233,
+            "Lower Respiratory Infections",
+            6.673527223510063
+        ],
+        "Neonatal Disorders": [
+            2841042,
+            "Neonatal Disorders",
+            6.133400856595242
+        ],
+        "Alcohol Use Disorders": [
+            156352,
+            "Alcohol Use Disorders",
+            0.33754146919699857
+        ],
+        "Self-harm": [
+            820128,
+            "Self-harm",
+            1.770538336891092
+        ],
+        "Exposure to Forces of Nature": [
+            14866,
+            "Exposure to Forces of Nature",
+            0.03209355480635093
+        ],
+        "Diarrheal Diseases": [
+            2615313,
+            "Diarrheal Diseases",
+            5.646084427637701
+        ],
+        "Environmental Heat and Cold Exposure": [
+            67602,
+            "Environmental Heat and Cold Exposure",
+            0.14594299018020554
+        ],
+        "Neoplasms": [
+            6490603,
+            "Neoplasms",
+            14.01227788959813
+        ],
+        "Conflict and Terrorism": [
+            87324,
+            "Conflict and Terrorism",
+            0.18851995021591475
+        ],
+        "Diabetes Mellitus": [
+            799023,
+            "Diabetes Mellitus",
+            1.7249756788668735
+        ],
+        "Chronic Kidney Disease": [
+            704624,
+            "Chronic Kidney Disease",
+            1.521181821732155
+        ],
+        "Poisonings": [
+            88861,
+            "Poisonings",
+            0.19183811204407036
+        ],
+        "Protein-Energy Malnutrition": [
+            593826,
+            "Protein-Energy Malnutrition",
+            1.2819848833873368
+        ],
+        "Road Injuries": [
+            1162809,
+            "Road Injuries",
+            2.5103373046426825
+        ],
+        "Chronic Respiratory Diseases": [
+            3342591,
+            "Chronic Respiratory Diseases",
+            7.216172975495451
+        ],
+        "Cirrhosis and Other Chronic Liver Diseases": [
+            1115241,
+            "Cirrhosis and Other Chronic Liver Diseases",
+            2.4076448376018846
+        ],
+        "Digestive Diseases": [
+            1995513,
+            "Digestive Diseases",
+            4.308025415867467
+        ],
+        "Fire, Heat, and Hot Substances": [
+            126804,
+            "Fire, Heat, and Hot Substances",
+            0.2737515891069907
+        ],
+        "Acute Hepatitis": [
+            153406,
+            "Acute Hepatitis",
+            0.3311814791216919
+        ]
+    },
+    "1997": {
+        "Meningitis": [
+            400893,
+            "Meningitis",
+            0.8589514524332061
+        ],
+        "Alzheimer's Disease and Other Dementias": [
+            717342,
+            "Alzheimer's Disease and Other Dementias",
+            1.5369735884421554
+        ],
+        "Parkinson's Disease": [
+            179347,
+            "Parkinson's Disease",
+            0.3842680369563406
+        ],
+        "Nutritional Deficiencies": [
+            647682,
+            "Nutritional Deficiencies",
+            1.3877204007424522
+        ],
+        "Malaria": [
+            892946,
+            "Malaria",
+            1.9132218912388637
+        ],
+        "Drowning": [
+            413405,
+            "Drowning",
+            0.8857596046654583
+        ],
+        "Interpersonal Violence": [
+            427316,
+            "Interpersonal Violence",
+            0.9155652477043699
+        ],
+        "Maternal Disorders": [
+            289467,
+            "Maternal Disorders",
+            0.620210629972294
+        ],
+        "HIV/AIDS": [
+            1174154,
+            "HIV/AIDS",
+            2.515736826734961
+        ],
+        "Drug Use Disorders": [
+            82572,
+            "Drug Use Disorders",
+            0.17691837804679728
+        ],
+        "Tuberculosis": [
+            1726038,
+            "Tuberculosis",
+            3.698200884163371
+        ],
+        "Cardiovascular Diseases": [
+            13339902,
+            "Cardiovascular Diseases",
+            28.58201115563662
+        ],
+        "Lower Respiratory Infections": [
+            3047670,
+            "Lower Respiratory Infections",
+            6.529923378649938
+        ],
+        "Neonatal Disorders": [
+            2817527,
+            "Neonatal Disorders",
+            6.036820071489835
+        ],
+        "Alcohol Use Disorders": [
+            155429,
+            "Alcohol Use Disorders",
+            0.3330214428793738
+        ],
+        "Self-harm": [
+            822649,
+            "Self-harm",
+            1.7626038703412747
+        ],
+        "Exposure to Forces of Nature": [
+            17852,
+            "Exposure to Forces of Nature",
+            0.03824961106539051
+        ],
+        "Diarrheal Diseases": [
+            2579027,
+            "Diarrheal Diseases",
+            5.525811095515398
+        ],
+        "Environmental Heat and Cold Exposure": [
+            63823,
+            "Environmental Heat and Cold Exposure",
+            0.13674685900887398
+        ],
+        "Neoplasms": [
+            6586074,
+            "Neoplasms",
+            14.111291112921842
+        ],
+        "Conflict and Terrorism": [
+            99263,
+            "Conflict and Terrorism",
+            0.2126804359838594
+        ],
+        "Diabetes Mellitus": [
+            827734,
+            "Diabetes Mellitus",
+            1.7734989673762014
+        ],
+        "Chronic Kidney Disease": [
+            731048,
+            "Chronic Kidney Disease",
+            1.5663399994472103
+        ],
+        "Poisonings": [
+            87371,
+            "Poisonings",
+            0.18720069282961205
+        ],
+        "Protein-Energy Malnutrition": [
+            572372,
+            "Protein-Energy Malnutrition",
+            1.2263615496706082
+        ],
+        "Road Injuries": [
+            1169798,
+            "Road Injuries",
+            2.5064036816643336
+        ],
+        "Chronic Respiratory Diseases": [
+            3381872,
+            "Chronic Respiratory Diseases",
+            7.245983008790854
+        ],
+        "Cirrhosis and Other Chronic Liver Diseases": [
+            1128962,
+            "Cirrhosis and Other Chronic Liver Diseases",
+            2.418908660520132
+        ],
+        "Digestive Diseases": [
+            2014659,
+            "Digestive Diseases",
+            4.3165988785227745
+        ],
+        "Fire, Heat, and Hot Substances": [
+            126274,
+            "Fire, Heat, and Hot Substances",
+            0.27055407728384057
+        ],
+        "Acute Hepatitis": [
+            151902,
+            "Acute Hepatitis",
+            0.3254645093017561
+        ]
+    },
+    "1998": {
+        "Meningitis": [
+            393364,
+            "Meningitis",
+            0.8357694822650228
+        ],
+        "Alzheimer's Disease and Other Dementias": [
+            738768,
+            "Alzheimer's Disease and Other Dementias",
+            1.5696396947203262
+        ],
+        "Parkinson's Disease": [
+            185097,
+            "Parkinson's Disease",
+            0.3932704158459059
+        ],
+        "Nutritional Deficiencies": [
+            620498,
+            "Nutritional Deficiencies",
+            1.3183547355794685
+        ],
+        "Malaria": [
+            901338,
+            "Malaria",
+            1.9150476240982677
+        ],
+        "Drowning": [
+            407205,
+            "Drowning",
+            0.865177067616072
+        ],
+        "Interpersonal Violence": [
+            431984,
+            "Interpersonal Violence",
+            0.9178243154604224
+        ],
+        "Maternal Disorders": [
+            289304,
+            "Maternal Disorders",
+            0.6146761124485214
+        ],
+        "HIV/AIDS": [
+            1303651,
+            "HIV/AIDS",
+            2.7698307962199875
+        ],
+        "Drug Use Disorders": [
+            85087,
+            "Drug Use Disorders",
+            0.18078196768764807
+        ],
+        "Tuberculosis": [
+            1724307,
+            "Tuberculosis",
+            3.6635868271015006
+        ],
+        "Cardiovascular Diseases": [
+            13461489,
+            "Cardiovascular Diseases",
+            28.601248950199558
+        ],
+        "Lower Respiratory Infections": [
+            2999755,
+            "Lower Respiratory Infections",
+            6.373495498499897
+        ],
+        "Neonatal Disorders": [
+            2793540,
+            "Neonatal Disorders",
+            5.93535625905429
+        ],
+        "Alcohol Use Disorders": [
+            156282,
+            "Alcohol Use Disorders",
+            0.33204799175151334
+        ],
+        "Self-harm": [
+            829842,
+            "Self-harm",
+            1.763142073758074
+        ],
+        "Exposure to Forces of Nature": [
+            48134,
+            "Exposure to Forces of Nature",
+            0.10226896274022179
+        ],
+        "Diarrheal Diseases": [
+            2544585,
+            "Diarrheal Diseases",
+            5.406408537714033
+        ],
+        "Environmental Heat and Cold Exposure": [
+            64858,
+            "Environmental Heat and Cold Exposure",
+            0.13780197750873197
+        ],
+        "Neoplasms": [
+            6703169,
+            "Neoplasms",
+            14.24203558196721
+        ],
+        "Conflict and Terrorism": [
+            108842,
+            "Conflict and Terrorism",
+            0.23125355138927206
+        ],
+        "Diabetes Mellitus": [
+            854415,
+            "Diabetes Mellitus",
+            1.8153516391674618
+        ],
+        "Chronic Kidney Disease": [
+            758681,
+            "Chronic Kidney Disease",
+            1.6119482885426977
+        ],
+        "Poisonings": [
+            86679,
+            "Poisonings",
+            0.18416444553454284
+        ],
+        "Protein-Energy Malnutrition": [
+            549543,
+            "Protein-Energy Malnutrition",
+            1.1675986327990548
+        ],
+        "Road Injuries": [
+            1177827,
+            "Road Injuries",
+            2.502496064682495
+        ],
+        "Chronic Respiratory Diseases": [
+            3401426,
+            "Chronic Respiratory Diseases",
+            7.226914631188383
+        ],
+        "Cirrhosis and Other Chronic Liver Diseases": [
+            1141509,
+            "Cirrhosis and Other Chronic Liver Diseases",
+            2.4253322264642008
+        ],
+        "Digestive Diseases": [
+            2030600,
+            "Digestive Diseases",
+            4.314358992402343
+        ],
+        "Fire, Heat, and Hot Substances": [
+            124746,
+            "Fire, Heat, and Hot Substances",
+            0.2650443351059897
+        ],
+        "Acute Hepatitis": [
+            149563,
+            "Acute Hepatitis",
+            0.3177723204868864
+        ]
+    },
+    "1999": {
+        "Meningitis": [
+            390136,
+            "Meningitis",
+            0.818717500113846
+        ],
+        "Alzheimer's Disease and Other Dementias": [
+            761620,
+            "Alzheimer's Disease and Other Dementias",
+            1.5982929604976401
+        ],
+        "Parkinson's Disease": [
+            191538,
+            "Parkinson's Disease",
+            0.401950890296732
+        ],
+        "Nutritional Deficiencies": [
+            593417,
+            "Nutritional Deficiencies",
+            1.2453115907403012
+        ],
+        "Malaria": [
+            893788,
+            "Malaria",
+            1.87565330292963
+        ],
+        "Drowning": [
+            397169,
+            "Drowning",
+            0.8334765589505099
+        ],
+        "Interpersonal Violence": [
+            440642,
+            "Interpersonal Violence",
+            0.9247065553682954
+        ],
+        "Maternal Disorders": [
+            288836,
+            "Maternal Disorders",
+            0.6061350089786198
+        ],
+        "HIV/AIDS": [
+            1439777,
+            "HIV/AIDS",
+            3.021435156359354
+        ],
+        "Drug Use Disorders": [
+            87336,
+            "Drug Use Disorders",
+            0.18327842493372273
+        ],
+        "Tuberculosis": [
+            1719130,
+            "Tuberculosis",
+            3.6076696740898457
+        ],
+        "Cardiovascular Diseases": [
+            13720763,
+            "Cardiovascular Diseases",
+            28.79362269314945
+        ],
+        "Lower Respiratory Infections": [
+            2950639,
+            "Lower Respiratory Infections",
+            6.192045301685614
+        ],
+        "Neonatal Disorders": [
+            2766241,
+            "Neonatal Disorders",
+            5.805078014416576
+        ],
+        "Alcohol Use Disorders": [
+            160606,
+            "Alcohol Use Disorders",
+            0.33703873219411784
+        ],
+        "Self-harm": [
+            840850,
+            "Self-harm",
+            1.7645605890528622
+        ],
+        "Exposure to Forces of Nature": [
+            69591,
+            "Exposure to Forces of Nature",
+            0.14603976446783343
+        ],
+        "Diarrheal Diseases": [
+            2496957,
+            "Diarrheal Diseases",
+            5.239973734625281
+        ],
+        "Environmental Heat and Cold Exposure": [
+            63375,
+            "Environmental Heat and Cold Exposure",
+            0.13299521594960473
+        ],
+        "Neoplasms": [
+            6857548,
+            "Neoplasms",
+            14.39086512260008
+        ],
+        "Conflict and Terrorism": [
+            141860,
+            "Conflict and Terrorism",
+            0.2976994293429732
+        ],
+        "Diabetes Mellitus": [
+            879521,
+            "Diabetes Mellitus",
+            1.8457133779441783
+        ],
+        "Chronic Kidney Disease": [
+            785380,
+            "Chronic Kidney Disease",
+            1.6481543621696342
+        ],
+        "Poisonings": [
+            87333,
+            "Poisonings",
+            0.1832721293021985
+        ],
+        "Protein-Energy Malnutrition": [
+            527431,
+            "Protein-Energy Malnutrition",
+            1.1068370768207647
+        ],
+        "Road Injuries": [
+            1195303,
+            "Road Injuries",
+            2.5083957492735367
+        ],
+        "Chronic Respiratory Diseases": [
+            3419612,
+            "Chronic Respiratory Diseases",
+            7.176205702625007
+        ],
+        "Cirrhosis and Other Chronic Liver Diseases": [
+            1158552,
+            "Cirrhosis and Other Chronic Liver Diseases",
+            2.4312721645577353
+        ],
+        "Digestive Diseases": [
+            2054201,
+            "Digestive Diseases",
+            4.310830857576237
+        ],
+        "Fire, Heat, and Hot Substances": [
+            125921,
+            "Fire, Heat, and Hot Substances",
+            0.26425073905467733
+        ],
+        "Acute Hepatitis": [
+            147017,
+            "Acute Hepatitis",
+            0.3085216199331446
+        ]
+    },
+    "2000": {
+        "Meningitis": [
+            385994,
+            "Meningitis",
+            0.8033120780451874
+        ],
+        "Alzheimer's Disease and Other Dementias": [
+            786615,
+            "Alzheimer's Disease and Other Dementias",
+            1.6370651623380548
+        ],
+        "Parkinson's Disease": [
+            198545,
+            "Parkinson's Disease",
+            0.4132022687800374
+        ],
+        "Nutritional Deficiencies": [
+            568454,
+            "Nutritional Deficiencies",
+            1.1830390213658737
+        ],
+        "Malaria": [
+            882055,
+            "Malaria",
+            1.835690282750892
+        ],
+        "Drowning": [
+            387627,
+            "Drowning",
+            0.8067105988083283
+        ],
+        "Interpersonal Violence": [
+            450393,
+            "Interpersonal Violence",
+            0.9373361678342309
+        ],
+        "Maternal Disorders": [
+            287027,
+            "Maternal Disorders",
+            0.5973467355064483
+        ],
+        "HIV/AIDS": [
+            1559389,
+            "HIV/AIDS",
+            3.245325103682459
+        ],
+        "Drug Use Disorders": [
+            89690,
+            "Drug Use Disorders",
+            0.1866584980074117
+        ],
+        "Tuberculosis": [
+            1714428,
+            "Tuberculosis",
+            3.567984785615462
+        ],
+        "Cardiovascular Diseases": [
+            13957078,
+            "Cardiovascular Diseases",
+            29.046796923316865
+        ],
+        "Lower Respiratory Infections": [
+            2895698,
+            "Lower Respiratory Infections",
+            6.02638688106886
+        ],
+        "Neonatal Disorders": [
+            2739290,
+            "Neonatal Disorders",
+            5.700878102427503
+        ],
+        "Alcohol Use Disorders": [
+            166094,
+            "Alcohol Use Disorders",
+            0.345666814227261
+        ],
+        "Self-harm": [
+            839249,
+            "Self-harm",
+            1.7466045021097363
+        ],
+        "Exposure to Forces of Nature": [
+            8918,
+            "Exposure to Forces of Nature",
+            0.01855971106288435
+        ],
+        "Diarrheal Diseases": [
+            2440570,
+            "Diarrheal Diseases",
+            5.079196459827727
+        ],
+        "Environmental Heat and Cold Exposure": [
+            65450,
+            "Environmental Heat and Cold Exposure",
+            0.13621138024958296
+        ],
+        "Neoplasms": [
+            7001927,
+            "Neoplasms",
+            14.572072438148535
+        ],
+        "Conflict and Terrorism": [
+            120011,
+            "Conflict and Terrorism",
+            0.24976109939087396
+        ],
+        "Diabetes Mellitus": [
+            905965,
+            "Diabetes Mellitus",
+            1.8854506204402357
+        ],
+        "Chronic Kidney Disease": [
+            814854,
+            "Chronic Kidney Disease",
+            1.6958348058348918
+        ],
+        "Poisonings": [
+            88799,
+            "Poisonings",
+            0.1848041918225014
+        ],
+        "Protein-Energy Malnutrition": [
+            505874,
+            "Protein-Energy Malnutrition",
+            1.05280054656039
+        ],
+        "Road Injuries": [
+            1212355,
+            "Road Injuries",
+            2.523094696752989
+        ],
+        "Chronic Respiratory Diseases": [
+            3450006,
+            "Chronic Respiratory Diseases",
+            7.179985930165664
+        ],
+        "Cirrhosis and Other Chronic Liver Diseases": [
+            1177628,
+            "Cirrhosis and Other Chronic Liver Diseases",
+            2.4508225408793867
+        ],
+        "Digestive Diseases": [
+            2079551,
+            "Digestive Diseases",
+            4.32786114605654
+        ],
+        "Fire, Heat, and Hot Substances": [
+            126659,
+            "Fire, Heat, and Hot Substances",
+            0.26359659604326857
+        ],
+        "Acute Hepatitis": [
+            144124,
+            "Acute Hepatitis",
+            0.29994391087992195
+        ]
+    },
+    "2001": {
+        "Meningitis": [
+            379912,
+            "Meningitis",
+            0.7851742618458366
+        ],
+        "Alzheimer's Disease and Other Dementias": [
+            814526,
+            "Alzheimer's Disease and Other Dementias",
+            1.6834026058777873
+        ],
+        "Parkinson's Disease": [
+            206194,
+            "Parkinson's Disease",
+            0.42614663855587726
+        ],
+        "Nutritional Deficiencies": [
+            542565,
+            "Nutritional Deficiencies",
+            1.121333554555756
+        ],
+        "Malaria": [
+            912709,
+            "Malaria",
+            1.8863200303097867
+        ],
+        "Drowning": [
+            375917,
+            "Drowning",
+            0.7769176888076748
+        ],
+        "Interpersonal Violence": [
+            451206,
+            "Interpersonal Violence",
+            0.9325194729053373
+        ],
+        "Maternal Disorders": [
+            282455,
+            "Maternal Disorders",
+            0.5837572809747146
+        ],
+        "HIV/AIDS": [
+            1662064,
+            "HIV/AIDS",
+            3.4350319925154733
+        ],
+        "Drug Use Disorders": [
+            87325,
+            "Drug Use Disorders",
+            0.18047690627220955
+        ],
+        "Tuberculosis": [
+            1682360,
+            "Tuberculosis",
+            3.4769782769666704
+        ],
+        "Cardiovascular Diseases": [
+            14185571,
+            "Cardiovascular Diseases",
+            29.317697884738326
+        ],
+        "Lower Respiratory Infections": [
+            2830457,
+            "Lower Respiratory Infections",
+            5.849780964174285
+        ],
+        "Neonatal Disorders": [
+            2710195,
+            "Neonatal Disorders",
+            5.601232281642267
+        ],
+        "Alcohol Use Disorders": [
+            170787,
+            "Alcohol Use Disorders",
+            0.3529700474264169
+        ],
+        "Self-harm": [
+            820745,
+            "Self-harm",
+            1.6962555790253038
+        ],
+        "Exposure to Forces of Nature": [
+            29497,
+            "Exposure to Forces of Nature",
+            0.06096223652231739
+        ],
+        "Diarrheal Diseases": [
+            2378465,
+            "Diarrheal Diseases",
+            4.9156370441079975
+        ],
+        "Environmental Heat and Cold Exposure": [
+            66743,
+            "Environmental Heat and Cold Exposure",
+            0.13793953799400038
+        ],
+        "Neoplasms": [
+            7114269,
+            "Neoplasms",
+            14.70324946473846
+        ],
+        "Conflict and Terrorism": [
+            67069,
+            "Conflict and Terrorism",
+            0.13861329088772772
+        ],
+        "Diabetes Mellitus": [
+            934841,
+            "Diabetes Mellitus",
+            1.9320608249232023
+        ],
+        "Chronic Kidney Disease": [
+            842790,
+            "Chronic Kidney Disease",
+            1.7418165684186144
+        ],
+        "Poisonings": [
+            89294,
+            "Poisonings",
+            0.184546291081256
+        ],
+        "Protein-Energy Malnutrition": [
+            483074,
+            "Protein-Energy Malnutrition",
+            0.9983819183571871
+        ],
+        "Road Injuries": [
+            1224220,
+            "Road Injuries",
+            2.530128121346286
+        ],
+        "Chronic Respiratory Diseases": [
+            3465831,
+            "Chronic Respiratory Diseases",
+            7.162925354048879
+        ],
+        "Cirrhosis and Other Chronic Liver Diseases": [
+            1200250,
+            "Cirrhosis and Other Chronic Liver Diseases",
+            2.480588683117315
+        ],
+        "Digestive Diseases": [
+            2107791,
+            "Digestive Diseases",
+            4.3562278700075225
+        ],
+        "Fire, Heat, and Hot Substances": [
+            126427,
+            "Fire, Heat, and Hot Substances",
+            0.26129005243946907
+        ],
+        "Acute Hepatitis": [
+            140143,
+            "Acute Hepatitis",
+            0.28963727541604656
+        ]
+    },
+    "2002": {
+        "Meningitis": [
+            372298,
+            "Meningitis",
+            0.7613918317453671
+        ],
+        "Alzheimer's Disease and Other Dementias": [
+            845695,
+            "Alzheimer's Disease and Other Dementias",
+            1.729542638284112
+        ],
+        "Parkinson's Disease": [
+            214930,
+            "Parkinson's Disease",
+            0.43955634034303637
+        ],
+        "Nutritional Deficiencies": [
+            517754,
+            "Nutritional Deficiencies",
+            1.0588659258268667
+        ],
+        "Malaria": [
+            929195,
+            "Malaria",
+            1.9003096527476278
+        ],
+        "Drowning": [
+            361967,
+            "Drowning",
+            0.7402637595726416
+        ],
+        "Interpersonal Violence": [
+            462331,
+            "Interpersonal Violence",
+            0.9455195756159509
+        ],
+        "Maternal Disorders": [
+            276253,
+            "Maternal Disorders",
+            0.5649688628334101
+        ],
+        "HIV/AIDS": [
+            1746104,
+            "HIV/AIDS",
+            3.5709816409916586
+        ],
+        "Drug Use Disorders": [
+            84750,
+            "Drug Use Disorders",
+            0.17332340689560477
+        ],
+        "Tuberculosis": [
+            1649490,
+            "Tuberculosis",
+            3.3733950022446146
+        ],
+        "Cardiovascular Diseases": [
+            14501696,
+            "Cardiovascular Diseases",
+            29.657620725479223
+        ],
+        "Lower Respiratory Infections": [
+            2788706,
+            "Lower Respiratory Infections",
+            5.7032215309759815
+        ],
+        "Neonatal Disorders": [
+            2691320,
+            "Neonatal Disorders",
+            5.504056064262879
+        ],
+        "Alcohol Use Disorders": [
+            175317,
+            "Alcohol Use Disorders",
+            0.35854324161317686
+        ],
+        "Self-harm": [
+            811199,
+            "Self-harm",
+            1.65899438761425
+        ],
+        "Exposure to Forces of Nature": [
+            8908,
+            "Exposure to Forces of Nature",
+            0.018217875028035957
+        ],
+        "Diarrheal Diseases": [
+            2312641,
+            "Diarrheal Diseases",
+            4.729614360430187
+        ],
+        "Environmental Heat and Cold Exposure": [
+            69939,
+            "Environmental Heat and Cold Exposure",
+            0.14303322424627377
+        ],
+        "Neoplasms": [
+            7253993,
+            "Neoplasms",
+            14.835242246098746
+        ],
+        "Conflict and Terrorism": [
+            66414,
+            "Conflict and Terrorism",
+            0.13582419758778402
+        ],
+        "Diabetes Mellitus": [
+            970544,
+            "Diabetes Mellitus",
+            1.984873069287172
+        ],
+        "Chronic Kidney Disease": [
+            874109,
+            "Chronic Kidney Disease",
+            1.7876525059364035
+        ],
+        "Poisonings": [
+            89920,
+            "Poisonings",
+            0.18389664599472308
+        ],
+        "Protein-Energy Malnutrition": [
+            462083,
+            "Protein-Energy Malnutrition",
+            0.9450123873574245
+        ],
+        "Road Injuries": [
+            1237109,
+            "Road Injuries",
+            2.530028868214923
+        ],
+        "Chronic Respiratory Diseases": [
+            3490310,
+            "Chronic Respiratory Diseases",
+            7.138081655714434
+        ],
+        "Cirrhosis and Other Chronic Liver Diseases": [
+            1227607,
+            "Cirrhosis and Other Chronic Liver Diseases",
+            2.5105961955031586
+        ],
+        "Digestive Diseases": [
+            2143976,
+            "Digestive Diseases",
+            4.384675216783612
+        ],
+        "Fire, Heat, and Hot Substances": [
+            125532,
+            "Fire, Heat, and Hot Substances",
+            0.2567272438279535
+        ],
+        "Acute Hepatitis": [
+            134941,
+            "Acute Hepatitis",
+            0.27596972094277056
+        ]
+    },
+    "2003": {
+        "Meningitis": [
+            369171,
+            "Meningitis",
+            0.7515091619664477
+        ],
+        "Alzheimer's Disease and Other Dementias": [
+            877011,
+            "Alzheimer's Disease and Other Dementias",
+            1.785302208584521
+        ],
+        "Parkinson's Disease": [
+            222256,
+            "Parkinson's Disease",
+            0.45243916857503647
+        ],
+        "Nutritional Deficiencies": [
+            417264,
+            "Nutritional Deficiencies",
+            0.8494104871692734
+        ],
+        "Malaria": [
+            959654,
+            "Malaria",
+            1.9535358230135882
+        ],
+        "Drowning": [
+            347745,
+            "Drowning",
+            0.7078929643119919
+        ],
+        "Interpersonal Violence": [
+            446701,
+            "Interpersonal Violence",
+            0.9093344118567659
+        ],
+        "Maternal Disorders": [
+            269425,
+            "Maternal Disorders",
+            0.5484595376202631
+        ],
+        "HIV/AIDS": [
+            1808445,
+            "HIV/AIDS",
+            3.6813915134515236
+        ],
+        "Drug Use Disorders": [
+            82250,
+            "Drug Use Disorders",
+            0.16743359736203633
+        ],
+        "Tuberculosis": [
+            1612262,
+            "Tuberculosis",
+            3.2820282863235435
+        ],
+        "Cardiovascular Diseases": [
+            14710723,
+            "Cardiovascular Diseases",
+            29.94613096275316
+        ],
+        "Lower Respiratory Infections": [
+            2746549,
+            "Lower Respiratory Infections",
+            5.5910587161228396
+        ],
+        "Neonatal Disorders": [
+            2671242,
+            "Neonatal Disorders",
+            5.43775875361168
+        ],
+        "Alcohol Use Disorders": [
+            178889,
+            "Alcohol Use Disorders",
+            0.3641584048449522
+        ],
+        "Self-harm": [
+            814533,
+            "Self-harm",
+            1.6581178159281649
+        ],
+        "Exposure to Forces of Nature": [
+            35474,
+            "Exposure to Forces of Nature",
+            0.07221324538384045
+        ],
+        "Diarrheal Diseases": [
+            2242961,
+            "Diarrheal Diseases",
+            4.565921324896662
+        ],
+        "Environmental Heat and Cold Exposure": [
+            71950,
+            "Environmental Heat and Cold Exposure",
+            0.14646622893858377
+        ],
+        "Neoplasms": [
+            7388299,
+            "Neoplasms",
+            15.040115257827791
+        ],
+        "Conflict and Terrorism": [
+            71044,
+            "Conflict and Terrorism",
+            0.14462191478405484
+        ],
+        "Diabetes Mellitus": [
+            1000276,
+            "Diabetes Mellitus",
+            2.0362286812754804
+        ],
+        "Chronic Kidney Disease": [
+            902200,
+            "Chronic Kidney Disease",
+            1.8365786205474675
+        ],
+        "Poisonings": [
+            90634,
+            "Poisonings",
+            0.18450062812535928
+        ],
+        "Protein-Energy Malnutrition": [
+            365742,
+            "Protein-Energy Malnutrition",
+            0.7445288603815914
+        ],
+        "Road Injuries": [
+            1248216,
+            "Road Injuries",
+            2.540951916897891
+        ],
+        "Chronic Respiratory Diseases": [
+            3491643,
+            "Chronic Respiratory Diseases",
+            7.1078218625407015
+        ],
+        "Cirrhosis and Other Chronic Liver Diseases": [
+            1251776,
+            "Cirrhosis and Other Chronic Liver Diseases",
+            2.5481988908384245
+        ],
+        "Digestive Diseases": [
+            2173729,
+            "Digestive Diseases",
+            4.424988038421664
+        ],
+        "Fire, Heat, and Hot Substances": [
+            125730,
+            "Fire, Heat, and Hot Substances",
+            0.2559443914447274
+        ],
+        "Acute Hepatitis": [
+            130158,
+            "Acute Hepatitis",
+            0.2649583241999748
+        ]
+    },
+    "2004": {
+        "Meningitis": [
+            363462,
+            "Meningitis",
+            0.7367945268221349
+        ],
+        "Alzheimer's Disease and Other Dementias": [
+            909148,
+            "Alzheimer's Disease and Other Dementias",
+            1.8429857054418075
+        ],
+        "Parkinson's Disease": [
+            227695,
+            "Parkinson's Disease",
+            0.46157350640442746
+        ],
+        "Nutritional Deficiencies": [
+            393952,
+            "Nutritional Deficiencies",
+            0.7986025428535409
+        ],
+        "Malaria": [
+            960784,
+            "Malaria",
+            1.9476599827720038
+        ],
+        "Drowning": [
+            338417,
+            "Drowning",
+            0.686024380495255
+        ],
+        "Interpersonal Violence": [
+            440855,
+            "Interpersonal Violence",
+            0.8936822862422269
+        ],
+        "Maternal Disorders": [
+            265279,
+            "Maternal Disorders",
+            0.5377621739847608
+        ],
+        "HIV/AIDS": [
+            1842954,
+            "HIV/AIDS",
+            3.7359570474629002
+        ],
+        "Drug Use Disorders": [
+            81843,
+            "Drug Use Disorders",
+            0.1659086079389427
+        ],
+        "Tuberculosis": [
+            1558519,
+            "Tuberculosis",
+            3.1593626545507005
+        ],
+        "Cardiovascular Diseases": [
+            14745985,
+            "Cardiovascular Diseases",
+            29.892426280054856
+        ],
+        "Lower Respiratory Infections": [
+            2697064,
+            "Lower Respiratory Infections",
+            5.467372087560775
+        ],
+        "Neonatal Disorders": [
+            2647814,
+            "Neonatal Disorders",
+            5.367534606762259
+        ],
+        "Alcohol Use Disorders": [
+            180491,
+            "Alcohol Use Disorders",
+            0.3658835887676124
+        ],
+        "Self-harm": [
+            819290,
+            "Self-harm",
+            1.6608294343840813
+        ],
+        "Exposure to Forces of Nature": [
+            242430,
+            "Exposure to Forces of Nature",
+            0.49144366436516107
+        ],
+        "Diarrheal Diseases": [
+            2166496,
+            "Diarrheal Diseases",
+            4.391827468021548
+        ],
+        "Environmental Heat and Cold Exposure": [
+            67144,
+            "Environmental Heat and Cold Exposure",
+            0.13611142762914807
+        ],
+        "Neoplasms": [
+            7504504,
+            "Neoplasms",
+            15.212807593957054
+        ],
+        "Conflict and Terrorism": [
+            70502,
+            "Conflict and Terrorism",
+            0.14291862073618192
+        ],
+        "Diabetes Mellitus": [
+            1018138,
+            "Diabetes Mellitus",
+            2.06392554365968
+        ],
+        "Chronic Kidney Disease": [
+            922921,
+            "Chronic Kidney Disease",
+            1.870905738396893
+        ],
+        "Poisonings": [
+            91455,
+            "Poisonings",
+            0.1853936407396601
+        ],
+        "Protein-Energy Malnutrition": [
+            345527,
+            "Protein-Energy Malnutrition",
+            0.7004374665557109
+        ],
+        "Road Injuries": [
+            1258547,
+            "Road Injuries",
+            2.5512723237874035
+        ],
+        "Chronic Respiratory Diseases": [
+            3462850,
+            "Chronic Respiratory Diseases",
+            7.019740515393713
+        ],
+        "Cirrhosis and Other Chronic Liver Diseases": [
+            1266574,
+            "Cirrhosis and Other Chronic Liver Diseases",
+            2.567544312789834
+        ],
+        "Digestive Diseases": [
+            2187927,
+            "Digestive Diseases",
+            4.435271469056938
+        ],
+        "Fire, Heat, and Hot Substances": [
+            123651,
+            "Fire, Heat, and Hot Substances",
+            0.2506599865627873
+        ],
+        "Acute Hepatitis": [
+            127953,
+            "Acute Hepatitis",
+            0.2593808158499998
+        ]
+    },
+    "2005": {
+        "Meningitis": [
+            361809,
+            "Meningitis",
+            0.7295726405692509
+        ],
+        "Alzheimer's Disease and Other Dementias": [
+            945619,
+            "Alzheimer's Disease and Other Dementias",
+            1.90680096626246
+        ],
+        "Parkinson's Disease": [
+            236498,
+            "Parkinson's Disease",
+            0.4768882762710345
+        ],
+        "Nutritional Deficiencies": [
+            376740,
+            "Nutritional Deficiencies",
+            0.7596803744739893
+        ],
+        "Malaria": [
+            940540,
+            "Malaria",
+            1.8965593762482504
+        ],
+        "Drowning": [
+            332705,
+            "Drowning",
+            0.6708856478987328
+        ],
+        "Interpersonal Violence": [
+            435946,
+            "Interpersonal Violence",
+            0.8790667848660555
+        ],
+        "Maternal Disorders": [
+            264407,
+            "Maternal Disorders",
+            0.5331656016710307
+        ],
+        "HIV/AIDS": [
+            1832074,
+            "HIV/AIDS",
+            3.694300213367467
+        ],
+        "Drug Use Disorders": [
+            84990,
+            "Drug Use Disorders",
+            0.17137876261226404
+        ],
+        "Tuberculosis": [
+            1532479,
+            "Tuberculosis",
+            3.0901794887549094
+        ],
+        "Cardiovascular Diseases": [
+            14995528,
+            "Cardiovascular Diseases",
+            30.237851904430617
+        ],
+        "Lower Respiratory Infections": [
+            2677818,
+            "Lower Respiratory Infections",
+            5.399707440179405
+        ],
+        "Neonatal Disorders": [
+            2620556,
+            "Neonatal Disorders",
+            5.284241024075117
+        ],
+        "Alcohol Use Disorders": [
+            181704,
+            "Alcohol Use Disorders",
+            0.36639847842921314
+        ],
+        "Self-harm": [
+            826133,
+            "Self-harm",
+            1.6658624696218087
+        ],
+        "Exposure to Forces of Nature": [
+            88718,
+            "Exposure to Forces of Nature",
+            0.17889611791310553
+        ],
+        "Diarrheal Diseases": [
+            2125961,
+            "Diarrheal Diseases",
+            4.286910995904594
+        ],
+        "Environmental Heat and Cold Exposure": [
+            68382,
+            "Environmental Heat and Cold Exposure",
+            0.13788942869692716
+        ],
+        "Neoplasms": [
+            7653588,
+            "Neoplasms",
+            15.433138498459497
+        ],
+        "Conflict and Terrorism": [
+            59507,
+            "Conflict and Terrorism",
+            0.11999336424012232
+        ],
+        "Diabetes Mellitus": [
+            1050925,
+            "Diabetes Mellitus",
+            2.119146088931563
+        ],
+        "Chronic Kidney Disease": [
+            956457,
+            "Chronic Kidney Disease",
+            1.9286553377084155
+        ],
+        "Poisonings": [
+            92064,
+            "Poisonings",
+            0.18564318627056683
+        ],
+        "Protein-Energy Malnutrition": [
+            329849,
+            "Protein-Energy Malnutrition",
+            0.6651266439450839
+        ],
+        "Road Injuries": [
+            1269243,
+            "Road Injuries",
+            2.5593751593631935
+        ],
+        "Chronic Respiratory Diseases": [
+            3479174,
+            "Chronic Respiratory Diseases",
+            7.0156081307537494
+        ],
+        "Cirrhosis and Other Chronic Liver Diseases": [
+            1293978,
+            "Cirrhosis and Other Chronic Liver Diseases",
+            2.6092522471760464
+        ],
+        "Digestive Diseases": [
+            2226154,
+            "Digestive Diseases",
+            4.48894596898861
+        ],
+        "Fire, Heat, and Hot Substances": [
+            124166,
+            "Fire, Heat, and Hot Substances",
+            0.2503755199260428
+        ],
+        "Acute Hepatitis": [
+            128197,
+            "Acute Hepatitis",
+            0.2585038619908744
+        ]
+    },
+    "2006": {
+        "Meningitis": [
+            358973,
+            "Meningitis",
+            0.7263054709220146
+        ],
+        "Alzheimer's Disease and Other Dementias": [
+            982308,
+            "Alzheimer's Disease and Other Dementias",
+            1.9874911888372169
+        ],
+        "Parkinson's Disease": [
+            242749,
+            "Parkinson's Disease",
+            0.49115094104806806
+        ],
+        "Nutritional Deficiencies": [
+            362476,
+            "Nutritional Deficiencies",
+            0.7333930459336166
+        ],
+        "Malaria": [
+            941746,
+            "Malaria",
+            1.9054226140097545
+        ],
+        "Drowning": [
+            319875,
+            "Drowning",
+            0.6471989885344565
+        ],
+        "Interpersonal Violence": [
+            427355,
+            "Interpersonal Violence",
+            0.8646618952564052
+        ],
+        "Maternal Disorders": [
+            259261,
+            "Maternal Disorders",
+            0.5245594590587939
+        ],
+        "HIV/AIDS": [
+            1767868,
+            "HIV/AIDS",
+            3.5769046704569982
+        ],
+        "Drug Use Disorders": [
+            85421,
+            "Drug Use Disorders",
+            0.1728312146919947
+        ],
+        "Tuberculosis": [
+            1499369,
+            "Tuberculosis",
+            3.0336540843764572
+        ],
+        "Cardiovascular Diseases": [
+            14991661,
+            "Cardiovascular Diseases",
+            30.332435594064737
+        ],
+        "Lower Respiratory Infections": [
+            2645926,
+            "Lower Respiratory Infections",
+            5.353468170182165
+        ],
+        "Neonatal Disorders": [
+            2587061,
+            "Neonatal Disorders",
+            5.23436736999434
+        ],
+        "Alcohol Use Disorders": [
+            177747,
+            "Alcohol Use Disorders",
+            0.359633227401435
+        ],
+        "Self-harm": [
+            814138,
+            "Self-harm",
+            1.6472349828134905
+        ],
+        "Exposure to Forces of Nature": [
+            19918,
+            "Exposure to Forces of Nature",
+            0.040299834165312395
+        ],
+        "Diarrheal Diseases": [
+            2109339,
+            "Diarrheal Diseases",
+            4.267798569054417
+        ],
+        "Environmental Heat and Cold Exposure": [
+            64630,
+            "Environmental Heat and Cold Exposure",
+            0.13076505081354253
+        ],
+        "Neoplasms": [
+            7722732,
+            "Neoplasms",
+            15.625304694404626
+        ],
+        "Conflict and Terrorism": [
+            74555,
+            "Conflict and Terrorism",
+            0.150846176131884
+        ],
+        "Diabetes Mellitus": [
+            1071057,
+            "Diabetes Mellitus",
+            2.167055903283311
+        ],
+        "Chronic Kidney Disease": [
+            981743,
+            "Chronic Kidney Disease",
+            1.9863480315772812
+        ],
+        "Poisonings": [
+            89859,
+            "Poisonings",
+            0.18181056322225156
+        ],
+        "Protein-Energy Malnutrition": [
+            316210,
+            "Protein-Energy Malnutrition",
+            0.6397836409987666
+        ],
+        "Road Injuries": [
+            1267492,
+            "Road Injuries",
+            2.5645003216116145
+        ],
+        "Chronic Respiratory Diseases": [
+            3461443,
+            "Chronic Respiratory Diseases",
+            7.003493266024774
+        ],
+        "Cirrhosis and Other Chronic Liver Diseases": [
+            1300281,
+            "Cirrhosis and Other Chronic Liver Diseases",
+            2.6308418851444206
+        ],
+        "Digestive Diseases": [
+            2235326,
+            "Digestive Diseases",
+            4.522706451722618
+        ],
+        "Fire, Heat, and Hot Substances": [
+            121265,
+            "Fire, Heat, and Hot Substances",
+            0.2453539205771969
+        ],
+        "Acute Hepatitis": [
+            124737,
+            "Acute Hepatitis",
+            0.2523787736860414
+        ]
+    },
+    "2007": {
+        "Meningitis": [
+            352747,
+            "Meningitis",
+            0.7126890809002632
+        ],
+        "Alzheimer's Disease and Other Dementias": [
+            1022057,
+            "Alzheimer's Disease and Other Dementias",
+            2.0649611873600064
+        ],
+        "Parkinson's Disease": [
+            250475,
+            "Parkinson's Disease",
+            0.5060590098243031
+        ],
+        "Nutritional Deficiencies": [
+            347407,
+            "Nutritional Deficiencies",
+            0.7019001594012642
+        ],
+        "Malaria": [
+            940193,
+            "Malaria",
+            1.8995633840652397
+        ],
+        "Drowning": [
+            311889,
+            "Drowning",
+            0.6301396886519295
+        ],
+        "Interpersonal Violence": [
+            420025,
+            "Interpersonal Violence",
+            0.848617369403944
+        ],
+        "Maternal Disorders": [
+            252551,
+            "Maternal Disorders",
+            0.5102533545868353
+        ],
+        "HIV/AIDS": [
+            1669306,
+            "HIV/AIDS",
+            3.3726613093273503
+        ],
+        "Drug Use Disorders": [
+            85962,
+            "Drug Use Disorders",
+            0.17367739136647065
+        ],
+        "Tuberculosis": [
+            1470117,
+            "Tuberculosis",
+            2.970220394633696
+        ],
+        "Cardiovascular Diseases": [
+            15117363,
+            "Cardiovascular Diseases",
+            30.54307915334686
+        ],
+        "Lower Respiratory Infections": [
+            2617221,
+            "Lower Respiratory Infections",
+            5.287826201223165
+        ],
+        "Neonatal Disorders": [
+            2549184,
+            "Neonatal Disorders",
+            5.150364431180581
+        ],
+        "Alcohol Use Disorders": [
+            174006,
+            "Alcohol Use Disorders",
+            0.35156124987918025
+        ],
+        "Self-harm": [
+            802521,
+            "Self-harm",
+            1.6214112491195107
+        ],
+        "Exposure to Forces of Nature": [
+            16200,
+            "Exposure to Forces of Nature",
+            0.03273043600819926
+        ],
+        "Diarrheal Diseases": [
+            2076357,
+            "Diarrheal Diseases",
+            4.195066044362752
+        ],
+        "Environmental Heat and Cold Exposure": [
+            59791,
+            "Environmental Heat and Cold Exposure",
+            0.12080157403495319
+        ],
+        "Neoplasms": [
+            7850705,
+            "Neoplasms",
+            15.861543063070984
+        ],
+        "Conflict and Terrorism": [
+            71286,
+            "Conflict and Terrorism",
+            0.14402604081978349
+        ],
+        "Diabetes Mellitus": [
+            1092777,
+            "Diabetes Mellitus",
+            2.2078436833167876
+        ],
+        "Chronic Kidney Disease": [
+            1010311,
+            "Chronic Kidney Disease",
+            2.0412296008567776
+        ],
+        "Poisonings": [
+            88475,
+            "Poisonings",
+            0.17875464974231045
+        ],
+        "Protein-Energy Malnutrition": [
+            302088,
+            "Protein-Energy Malnutrition",
+            0.6103377748669689
+        ],
+        "Road Injuries": [
+            1273318,
+            "Road Injuries",
+            2.5726082294498926
+        ],
+        "Chronic Respiratory Diseases": [
+            3467408,
+            "Chronic Respiratory Diseases",
+            7.005541707303591
+        ],
+        "Cirrhosis and Other Chronic Liver Diseases": [
+            1311974,
+            "Cirrhosis and Other Chronic Liver Diseases",
+            2.6507087068778525
+        ],
+        "Digestive Diseases": [
+            2251390,
+            "Digestive Diseases",
+            4.54870224225307
+        ],
+        "Fire, Heat, and Hot Substances": [
+            119600,
+            "Fire, Heat, and Hot Substances",
+            0.2416395152210266
+        ],
+        "Acute Hepatitis": [
+            120512,
+            "Acute Hepatitis",
+            0.24348211754445115
+        ]
+    },
+    "2008": {
+        "Meningitis": [
+            343452,
+            "Meningitis",
+            0.6853176267575816
+        ],
+        "Alzheimer's Disease and Other Dementias": [
+            1065297,
+            "Alzheimer's Disease and Other Dementias",
+            2.125673491003026
+        ],
+        "Parkinson's Disease": [
+            260382,
+            "Parkinson's Disease",
+            0.5195613194577193
+        ],
+        "Nutritional Deficiencies": [
+            335623,
+            "Nutritional Deficiencies",
+            0.6696957881894989
+        ],
+        "Malaria": [
+            932910,
+            "Malaria",
+            1.8615109743964668
+        ],
+        "Drowning": [
+            304870,
+            "Drowning",
+            0.6083318334718794
+        ],
+        "Interpersonal Violence": [
+            422800,
+            "Interpersonal Violence",
+            0.8436471256335834
+        ],
+        "Maternal Disorders": [
+            247899,
+            "Maternal Disorders",
+            0.4946529772881733
+        ],
+        "HIV/AIDS": [
+            1559499,
+            "HIV/AIDS",
+            3.1117948173567824
+        ],
+        "Drug Use Disorders": [
+            87077,
+            "Drug Use Disorders",
+            0.17375179933489956
+        ],
+        "Tuberculosis": [
+            1447516,
+            "Tuberculosis",
+            2.8883460565483023
+        ],
+        "Cardiovascular Diseases": [
+            15402070,
+            "Cardiovascular Diseases",
+            30.732999253328398
+        ],
+        "Lower Respiratory Infections": [
+            2603124,
+            "Lower Respiratory Infections",
+            5.1942244093372665
+        ],
+        "Neonatal Disorders": [
+            2515772,
+            "Neonatal Disorders",
+            5.019923880202108
+        ],
+        "Alcohol Use Disorders": [
+            171613,
+            "Alcohol Use Disorders",
+            0.34243333531541187
+        ],
+        "Self-harm": [
+            797570,
+            "Self-harm",
+            1.591456097425679
+        ],
+        "Exposure to Forces of Nature": [
+            235751,
+            "Exposure to Forces of Nature",
+            0.47041308778439667
+        ],
+        "Diarrheal Diseases": [
+            2044769,
+            "Diarrheal Diseases",
+            4.080093399798147
+        ],
+        "Environmental Heat and Cold Exposure": [
+            57763,
+            "Environmental Heat and Cold Exposure",
+            0.11525919800845004
+        ],
+        "Neoplasms": [
+            8027173,
+            "Neoplasms",
+            16.017269225197513
+        ],
+        "Conflict and Terrorism": [
+            64695,
+            "Conflict and Terrorism",
+            0.12909117973714446
+        ],
+        "Diabetes Mellitus": [
+            1122287,
+            "Diabetes Mellitus",
+            2.239390259427477
+        ],
+        "Chronic Kidney Disease": [
+            1045743,
+            "Chronic Kidney Disease",
+            2.086655809133019
+        ],
+        "Poisonings": [
+            88687,
+            "Poisonings",
+            0.17696436289277578
+        ],
+        "Protein-Energy Malnutrition": [
+            290690,
+            "Protein-Energy Malnutrition",
+            0.5800373295894663
+        ],
+        "Road Injuries": [
+            1284333,
+            "Road Injuries",
+            2.5627337838371735
+        ],
+        "Chronic Respiratory Diseases": [
+            3510195,
+            "Chronic Respiratory Diseases",
+            7.004176731701457
+        ],
+        "Cirrhosis and Other Chronic Liver Diseases": [
+            1330568,
+            "Cirrhosis and Other Chronic Liver Diseases",
+            2.654990228618793
+        ],
+        "Digestive Diseases": [
+            2280070,
+            "Digestive Diseases",
+            4.549608566091212
+        ],
+        "Fire, Heat, and Hot Substances": [
+            118269,
+            "Fire, Heat, and Hot Substances",
+            0.23599172635184076
+        ],
+        "Acute Hepatitis": [
+            117273,
+            "Acute Hepatitis",
+            0.2340043267843596
+        ]
+    },
+    "2009": {
+        "Meningitis": [
+            336868,
+            "Meningitis",
+            0.6750771622967918
+        ],
+        "Alzheimer's Disease and Other Dementias": [
+            1109405,
+            "Alzheimer's Disease and Other Dementias",
+            2.2232268402990853
+        ],
+        "Parkinson's Disease": [
+            267738,
+            "Parkinson's Disease",
+            0.5365419371356688
+        ],
+        "Nutritional Deficiencies": [
+            322879,
+            "Nutritional Deficiencies",
+            0.6470434683176373
+        ],
+        "Malaria": [
+            917796,
+            "Malaria",
+            1.8392459932298297
+        ],
+        "Drowning": [
+            296871,
+            "Drowning",
+            0.59492392346026
+        ],
+        "Interpersonal Violence": [
+            422750,
+            "Interpersonal Violence",
+            0.8471830816847215
+        ],
+        "Maternal Disorders": [
+            244175,
+            "Maternal Disorders",
+            0.4893221264822397
+        ],
+        "HIV/AIDS": [
+            1453258,
+            "HIV/AIDS",
+            2.912301811763394
+        ],
+        "Drug Use Disorders": [
+            87025,
+            "Drug Use Disorders",
+            0.17439646997897784
+        ],
+        "Tuberculosis": [
+            1405491,
+            "Tuberculosis",
+            2.8165776384627814
+        ],
+        "Cardiovascular Diseases": [
+            15552545,
+            "Cardiovascular Diseases",
+            31.167008873188184
+        ],
+        "Lower Respiratory Infections": [
+            2571405,
+            "Lower Respiratory Infections",
+            5.153047456320523
+        ],
+        "Neonatal Disorders": [
+            2475066,
+            "Neonatal Disorders",
+            4.9599859047973425
+        ],
+        "Alcohol Use Disorders": [
+            166736,
+            "Alcohol Use Disorders",
+            0.33413582095277045
+        ],
+        "Self-harm": [
+            785883,
+            "Self-harm",
+            1.574894812025154
+        ],
+        "Exposure to Forces of Nature": [
+            10975,
+            "Exposure to Forces of Nature",
+            0.021993694432855867
+        ],
+        "Diarrheal Diseases": [
+            1977248,
+            "Diarrheal Diseases",
+            3.9623679571731567
+        ],
+        "Environmental Heat and Cold Exposure": [
+            54835,
+            "Environmental Heat and Cold Exposure",
+            0.109888312913499
+        ],
+        "Neoplasms": [
+            8167640,
+            "Neoplasms",
+            16.367797576088464
+        ],
+        "Conflict and Terrorism": [
+            71582,
+            "Conflict and Terrorism",
+            0.14344898723395796
+        ],
+        "Diabetes Mellitus": [
+            1142391,
+            "Diabetes Mellitus",
+            2.289330166455093
+        ],
+        "Chronic Kidney Disease": [
+            1074048,
+            "Chronic Kidney Disease",
+            2.1523720745530732
+        ],
+        "Poisonings": [
+            87902,
+            "Poisonings",
+            0.1761539615523368
+        ],
+        "Protein-Energy Malnutrition": [
+            279325,
+            "Protein-Energy Malnutrition",
+            0.5597620681054637
+        ],
+        "Road Injuries": [
+            1281669,
+            "Road Injuries",
+            2.5684406697096986
+        ],
+        "Chronic Respiratory Diseases": [
+            3498126,
+            "Chronic Respiratory Diseases",
+            7.010178982380716
+        ],
+        "Cirrhosis and Other Chronic Liver Diseases": [
+            1330408,
+            "Cirrhosis and Other Chronic Liver Diseases",
+            2.666112712804274
+        ],
+        "Digestive Diseases": [
+            2279806,
+            "Digestive Diseases",
+            4.568688522113112
+        ],
+        "Fire, Heat, and Hot Substances": [
+            116177,
+            "Fire, Heat, and Hot Substances",
+            0.2328165319476898
+        ],
+        "Acute Hepatitis": [
+            112643,
+            "Acute Hepatitis",
+            0.22573446214124676
+        ]
+    },
+    "2010": {
+        "Meningitis": [
+            326778,
+            "Meningitis",
+            0.6480761917605685
+        ],
+        "Alzheimer's Disease and Other Dementias": [
+            1155944,
+            "Alzheimer's Disease and Other Dementias",
+            2.2925037346714854
+        ],
+        "Parkinson's Disease": [
+            276188,
+            "Parkinson's Disease",
+            0.54774454599137
+        ],
+        "Nutritional Deficiencies": [
+            322187,
+            "Nutritional Deficiencies",
+            0.6389711791943223
+        ],
+        "Malaria": [
+            909814,
+            "Malaria",
+            1.8043711398271913
+        ],
+        "Drowning": [
+            290831,
+            "Drowning",
+            0.5767849944791813
+        ],
+        "Interpersonal Violence": [
+            417449,
+            "Interpersonal Violence",
+            0.8278977109054391
+        ],
+        "Maternal Disorders": [
+            239749,
+            "Maternal Disorders",
+            0.47547759916030014
+        ],
+        "HIV/AIDS": [
+            1364619,
+            "HIV/AIDS",
+            2.706354420199999
+        ],
+        "Drug Use Disorders": [
+            88079,
+            "Drug Use Disorders",
+            0.17468098493190826
+        ],
+        "Tuberculosis": [
+            1364942,
+            "Tuberculosis",
+            2.7069950037458272
+        ],
+        "Cardiovascular Diseases": [
+            15838151,
+            "Cardiovascular Diseases",
+            31.410708752146228
+        ],
+        "Lower Respiratory Infections": [
+            2545622,
+            "Lower Respiratory Infections",
+            5.048555935289163
+        ],
+        "Neonatal Disorders": [
+            2428939,
+            "Neonatal Disorders",
+            4.817146616781801
+        ],
+        "Alcohol Use Disorders": [
+            164313,
+            "Alcohol Use Disorders",
+            0.3258706011321273
+        ],
+        "Self-harm": [
+            784456,
+            "Self-harm",
+            1.555757294198901
+        ],
+        "Exposure to Forces of Nature": [
+            241002,
+            "Exposure to Forces of Nature",
+            0.47796258734272357
+        ],
+        "Diarrheal Diseases": [
+            1928704,
+            "Diarrheal Diseases",
+            3.825065161526711
+        ],
+        "Environmental Heat and Cold Exposure": [
+            58674,
+            "Environmental Heat and Cold Exposure",
+            0.1163640834920331
+        ],
+        "Neoplasms": [
+            8329288,
+            "Neoplasms",
+            16.51890043735197
+        ],
+        "Conflict and Terrorism": [
+            54467,
+            "Conflict and Terrorism",
+            0.10802063154992958
+        ],
+        "Diabetes Mellitus": [
+            1165663,
+            "Diabetes Mellitus",
+            2.3117787547393016
+        ],
+        "Chronic Kidney Disease": [
+            1107473,
+            "Chronic Kidney Disease",
+            2.1963745549506153
+        ],
+        "Poisonings": [
+            87632,
+            "Poisonings",
+            0.1737944807678673
+        ],
+        "Protein-Energy Malnutrition": [
+            279144,
+            "Protein-Energy Malnutrition",
+            0.5536069762126341
+        ],
+        "Road Injuries": [
+            1278839,
+            "Road Injuries",
+            2.536232882858986
+        ],
+        "Chronic Respiratory Diseases": [
+            3509920,
+            "Chronic Respiratory Diseases",
+            6.960981421589747
+        ],
+        "Cirrhosis and Other Chronic Liver Diseases": [
+            1340704,
+            "Cirrhosis and Other Chronic Liver Diseases",
+            2.658925455808412
+        ],
+        "Digestive Diseases": [
+            2298319,
+            "Digestive Diseases",
+            4.558097010725808
+        ],
+        "Fire, Heat, and Hot Substances": [
+            115329,
+            "Fire, Heat, and Hot Substances",
+            0.22872402401494166
+        ],
+        "Acute Hepatitis": [
+            109556,
+            "Acute Hepatitis",
+            0.21727483265250674
+        ]
+    },
+    "2011": {
+        "Meningitis": [
+            312733,
+            "Meningitis",
+            0.6203382468313968
+        ],
+        "Alzheimer's Disease and Other Dementias": [
+            1201138,
+            "Alzheimer's Disease and Other Dementias",
+            2.382581438871403
+        ],
+        "Parkinson's Disease": [
+            284488,
+            "Parkinson's Disease",
+            0.5643113683703684
+        ],
+        "Nutritional Deficiencies": [
+            314327,
+            "Nutritional Deficiencies",
+            0.6235001106751525
+        ],
+        "Malaria": [
+            868564,
+            "Malaria",
+            1.7228865166799328
+        ],
+        "Drowning": [
+            281106,
+            "Drowning",
+            0.5576028216203172
+        ],
+        "Interpersonal Violence": [
+            413880,
+            "Interpersonal Violence",
+            0.8209737814639918
+        ],
+        "Maternal Disorders": [
+            234669,
+            "Maternal Disorders",
+            0.46549022983080474
+        ],
+        "HIV/AIDS": [
+            1283719,
+            "HIV/AIDS",
+            2.546389392498246
+        ],
+        "Drug Use Disorders": [
+            89322,
+            "Drug Use Disorders",
+            0.1771794242483973
+        ],
+        "Tuberculosis": [
+            1331697,
+            "Tuberculosis",
+            2.641558717150511
+        ],
+        "Cardiovascular Diseases": [
+            16038263,
+            "Cardiovascular Diseases",
+            31.813553259940143
+        ],
+        "Lower Respiratory Infections": [
+            2527899,
+            "Lower Respiratory Infections",
+            5.014349089564712
+        ],
+        "Neonatal Disorders": [
+            2383664,
+            "Neonatal Disorders",
+            4.728244050979956
+        ],
+        "Alcohol Use Disorders": [
+            161372,
+            "Alcohol Use Disorders",
+            0.32009805031025246
+        ],
+        "Self-harm": [
+            777218,
+            "Self-harm",
+            1.5416922791192633
+        ],
+        "Exposure to Forces of Nature": [
+            31850,
+            "Exposure to Forces of Nature",
+            0.06317776877265907
+        ],
+        "Diarrheal Diseases": [
+            1902762,
+            "Diarrheal Diseases",
+            3.774325201425505
+        ],
+        "Environmental Heat and Cold Exposure": [
+            51638,
+            "Environmental Heat and Cold Exposure",
+            0.10242931315172903
+        ],
+        "Neoplasms": [
+            8468793,
+            "Neoplasms",
+            16.7987267170334
+        ],
+        "Conflict and Terrorism": [
+            62900,
+            "Conflict and Terrorism",
+            0.12476865481319485
+        ],
+        "Diabetes Mellitus": [
+            1197995,
+            "Diabetes Mellitus",
+            2.376346973337573
+        ],
+        "Chronic Kidney Disease": [
+            1143219,
+            "Chronic Kidney Disease",
+            2.2676931126690905
+        ],
+        "Poisonings": [
+            86099,
+            "Poisonings",
+            0.17078627044135553
+        ],
+        "Protein-Energy Malnutrition": [
+            271516,
+            "Protein-Energy Malnutrition",
+            0.538580064868989
+        ],
+        "Road Injuries": [
+            1267737,
+            "Road Injuries",
+            2.5146874427172525
+        ],
+        "Chronic Respiratory Diseases": [
+            3539167,
+            "Chronic Respiratory Diseases",
+            7.0203037480008
+        ],
+        "Cirrhosis and Other Chronic Liver Diseases": [
+            1348880,
+            "Cirrhosis and Other Chronic Liver Diseases",
+            2.6756429746331043
+        ],
+        "Digestive Diseases": [
+            2316484,
+            "Digestive Diseases",
+            4.594985573549902
+        ],
+        "Fire, Heat, and Hot Substances": [
+            113655,
+            "Fire, Heat, and Hot Substances",
+            0.22544644614934276
+        ],
+        "Acute Hepatitis": [
+            106549,
+            "Acute Hepatitis",
+            0.2113509602812575
+        ]
+    },
+    "2012": {
+        "Meningitis": [
+            300091,
+            "Meningitis",
+            0.5930927153262876
+        ],
+        "Alzheimer's Disease and Other Dementias": [
+            1247515,
+            "Alzheimer's Disease and Other Dementias",
+            2.4655589763114314
+        ],
+        "Parkinson's Disease": [
+            293123,
+            "Parkinson's Disease",
+            0.5793213258464514
+        ],
+        "Nutritional Deficiencies": [
+            298117,
+            "Nutritional Deficiencies",
+            0.5891913486739919
+        ],
+        "Malaria": [
+            806183,
+            "Malaria",
+            1.593320907724299
+        ],
+        "Drowning": [
+            275585,
+            "Drowning",
+            0.5446596397532582
+        ],
+        "Interpersonal Violence": [
+            417694,
+            "Interpersonal Violence",
+            0.8255204875704316
+        ],
+        "Maternal Disorders": [
+            227177,
+            "Maternal Disorders",
+            0.44898721984224804
+        ],
+        "HIV/AIDS": [
+            1198698,
+            "HIV/AIDS",
+            2.3690782185276813
+        ],
+        "Drug Use Disorders": [
+            90934,
+            "Drug Use Disorders",
+            0.17971979491381163
+        ],
+        "Tuberculosis": [
+            1318198,
+            "Tuberculosis",
+            2.6052551764554144
+        ],
+        "Cardiovascular Diseases": [
+            16245243,
+            "Cardiovascular Diseases",
+            32.106711904073656
+        ],
+        "Lower Respiratory Infections": [
+            2526051,
+            "Lower Respiratory Infections",
+            4.992427119249442
+        ],
+        "Neonatal Disorders": [
+            2339979,
+            "Neonatal Disorders",
+            4.624678843805683
+        ],
+        "Alcohol Use Disorders": [
+            159381,
+            "Alcohol Use Disorders",
+            0.31499681783665306
+        ],
+        "Self-harm": [
+            767020,
+            "Self-harm",
+            1.5159200859391624
+        ],
+        "Exposure to Forces of Nature": [
+            8959,
+            "Exposure to Forces of Nature",
+            0.017706354527820597
+        ],
+        "Diarrheal Diseases": [
+            1834769,
+            "Diarrheal Diseases",
+            3.626193815231038
+        ],
+        "Environmental Heat and Cold Exposure": [
+            51418,
+            "Environmental Heat and Cold Exposure",
+            0.10162131232408522
+        ],
+        "Neoplasms": [
+            8611952,
+            "Neoplasms",
+            17.020457114474123
+        ],
+        "Conflict and Terrorism": [
+            112295,
+            "Conflict and Terrorism",
+            0.2219371672844753
+        ],
+        "Diabetes Mellitus": [
+            1236606,
+            "Diabetes Mellitus",
+            2.4439986881605225
+        ],
+        "Chronic Kidney Disease": [
+            1176295,
+            "Chronic Kidney Disease",
+            2.3248014621389363
+        ],
+        "Poisonings": [
+            84595,
+            "Poisonings",
+            0.16719154607444844
+        ],
+        "Protein-Energy Malnutrition": [
+            255541,
+            "Protein-Energy Malnutrition",
+            0.505045154860342
+        ],
+        "Road Injuries": [
+            1255450,
+            "Road Injuries",
+            2.4812415215930765
+        ],
+        "Chronic Respiratory Diseases": [
+            3558276,
+            "Chronic Respiratory Diseases",
+            7.032492059809729
+        ],
+        "Cirrhosis and Other Chronic Liver Diseases": [
+            1354358,
+            "Cirrhosis and Other Chronic Liver Diseases",
+            2.676720940460995
+        ],
+        "Digestive Diseases": [
+            2329472,
+            "Digestive Diseases",
+            4.603913058893996
+        ],
+        "Fire, Heat, and Hot Substances": [
+            112090,
+            "Fire, Heat, and Hot Substances",
+            0.22153201015999674
+        ],
+        "Acute Hepatitis": [
+            104589,
+            "Acute Hepatitis",
+            0.20670721215651622
+        ]
+    },
+    "2013": {
+        "Meningitis": [
+            289502,
+            "Meningitis",
+            0.5684138809833983
+        ],
+        "Alzheimer's Disease and Other Dementias": [
+            1294701,
+            "Alzheimer's Disease and Other Dementias",
+            2.542041229846726
+        ],
+        "Parkinson's Disease": [
+            303488,
+            "Parkinson's Disease",
+            0.5958742665400916
+        ],
+        "Nutritional Deficiencies": [
+            291451,
+            "Nutritional Deficiencies",
+            0.5722405856487777
+        ],
+        "Malaria": [
+            751776,
+            "Malaria",
+            1.4760516811288877
+        ],
+        "Drowning": [
+            266827,
+            "Drowning",
+            0.5238933431242521
+        ],
+        "Interpersonal Violence": [
+            415620,
+            "Interpersonal Violence",
+            0.816036425359134
+        ],
+        "Maternal Disorders": [
+            223473,
+            "Maternal Disorders",
+            0.43877125278928286
+        ],
+        "HIV/AIDS": [
+            1126196,
+            "HIV/AIDS",
+            2.2111952218222304
+        ],
+        "Drug Use Disorders": [
+            94562,
+            "Drug Use Disorders",
+            0.1856648776642376
+        ],
+        "Tuberculosis": [
+            1307485,
+            "Tuberculosis",
+            2.56714158512749
+        ],
+        "Cardiovascular Diseases": [
+            16490053,
+            "Cardiovascular Diseases",
+            32.37689212285901
+        ],
+        "Lower Respiratory Infections": [
+            2537037,
+            "Lower Respiratory Infections",
+            4.981267995967136
+        ],
+        "Neonatal Disorders": [
+            2299343,
+            "Neonatal Disorders",
+            4.51457495403144
+        ],
+        "Alcohol Use Disorders": [
+            158848,
+            "Alcohol Use Disorders",
+            0.3118852656163027
+        ],
+        "Self-harm": [
+            755568,
+            "Self-harm",
+            1.4834969679893897
+        ],
+        "Exposure to Forces of Nature": [
+            26906,
+            "Exposure to Forces of Nature",
+            0.05282776589363567
+        ],
+        "Diarrheal Diseases": [
+            1788081,
+            "Diarrheal Diseases",
+            3.510753157914888
+        ],
+        "Environmental Heat and Cold Exposure": [
+            49503,
+            "Environmental Heat and Cold Exposure",
+            0.09719515702938553
+        ],
+        "Neoplasms": [
+            8757263,
+            "Neoplasms",
+            17.19418120987875
+        ],
+        "Conflict and Terrorism": [
+            117364,
+            "Conflict and Terrorism",
+            0.23043476980378566
+        ],
+        "Diabetes Mellitus": [
+            1277414,
+            "Diabetes Mellitus",
+            2.5080995964191155
+        ],
+        "Chronic Kidney Disease": [
+            1214187,
+            "Chronic Kidney Disease",
+            2.383958469750086
+        ],
+        "Poisonings": [
+            83618,
+            "Poisonings",
+            0.164177214320004
+        ],
+        "Protein-Energy Malnutrition": [
+            249435,
+            "Protein-Energy Malnutrition",
+            0.48974555064591596
+        ],
+        "Road Injuries": [
+            1232221,
+            "Road Injuries",
+            2.419366777567147
+        ],
+        "Chronic Respiratory Diseases": [
+            3610804,
+            "Chronic Respiratory Diseases",
+            7.089523095213085
+        ],
+        "Cirrhosis and Other Chronic Liver Diseases": [
+            1359145,
+            "Cirrhosis and Other Chronic Liver Diseases",
+            2.668571838084645
+        ],
+        "Digestive Diseases": [
+            2348963,
+            "Digestive Diseases",
+            4.61199983114592
+        ],
+        "Fire, Heat, and Hot Substances": [
+            111818,
+            "Fire, Heat, and Hot Substances",
+            0.21954564508639535
+        ],
+        "Acute Hepatitis": [
+            98898,
+            "Acute Hepatitis",
+            0.19417826474945293
+        ]
+    },
+    "2014": {
+        "Meningitis": [
+            280438,
+            "Meningitis",
+            0.546999978056648
+        ],
+        "Alzheimer's Disease and Other Dementias": [
+            1343756,
+            "Alzheimer's Disease and Other Dementias",
+            2.6210231941230826
+        ],
+        "Parkinson's Disease": [
+            312928,
+            "Parkinson's Disease",
+            0.6103723786837402
+        ],
+        "Nutritional Deficiencies": [
+            284578,
+            "Nutritional Deficiencies",
+            0.5550751315991583
+        ],
+        "Malaria": [
+            724324,
+            "Malaria",
+            1.4128085783877486
+        ],
+        "Drowning": [
+            258489,
+            "Drowning",
+            0.5041880106400876
+        ],
+        "Interpersonal Violence": [
+            413371,
+            "Interpersonal Violence",
+            0.8062884770582255
+        ],
+        "Maternal Disorders": [
+            214881,
+            "Maternal Disorders",
+            0.41912972665897835
+        ],
+        "HIV/AIDS": [
+            1072970,
+            "HIV/AIDS",
+            2.0928496368375242
+        ],
+        "Drug Use Disorders": [
+            99295,
+            "Drug Use Disorders",
+            0.19367690120859107
+        ],
+        "Tuberculosis": [
+            1294816,
+            "Tuberculosis",
+            2.5255647365456775
+        ],
+        "Cardiovascular Diseases": [
+            16715810,
+            "Cardiovascular Diseases",
+            32.604524719186045
+        ],
+        "Lower Respiratory Infections": [
+            2532104,
+            "Lower Respiratory Infections",
+            4.938919948213689
+        ],
+        "Neonatal Disorders": [
+            2237472,
+            "Neonatal Disorders",
+            4.364234286731343
+        ],
+        "Alcohol Use Disorders": [
+            159291,
+            "Alcohol Use Disorders",
+            0.31070030988889347
+        ],
+        "Self-harm": [
+            744751,
+            "Self-harm",
+            1.452651854091338
+        ],
+        "Exposure to Forces of Nature": [
+            7412,
+            "Exposure to Forces of Nature",
+            0.014457255569344648
+        ],
+        "Diarrheal Diseases": [
+            1725693,
+            "Diarrheal Diseases",
+            3.3659990198636103
+        ],
+        "Environmental Heat and Cold Exposure": [
+            48775,
+            "Environmental Heat and Cold Exposure",
+            0.09513662174781237
+        ],
+        "Neoplasms": [
+            8920309,
+            "Neoplasms",
+            17.399242710540367
+        ],
+        "Conflict and Terrorism": [
+            187939,
+            "Conflict and Terrorism",
+            0.36657881198692177
+        ],
+        "Diabetes Mellitus": [
+            1320608,
+            "Diabetes Mellitus",
+            2.5758725530114814
+        ],
+        "Chronic Kidney Disease": [
+            1247378,
+            "Chronic Kidney Disease",
+            2.4330359602776563
+        ],
+        "Poisonings": [
+            81976,
+            "Poisonings",
+            0.15989584222242267
+        ],
+        "Protein-Energy Malnutrition": [
+            242956,
+            "Protein-Energy Malnutrition",
+            0.47389058069423884
+        ],
+        "Road Injuries": [
+            1213989,
+            "Road Injuries",
+            2.3679100420093286
+        ],
+        "Chronic Respiratory Diseases": [
+            3651653,
+            "Chronic Respiratory Diseases",
+            7.122622864485173
+        ],
+        "Cirrhosis and Other Chronic Liver Diseases": [
+            1363403,
+            "Cirrhosis and Other Chronic Liver Diseases",
+            2.6593450640867786
+        ],
+        "Digestive Diseases": [
+            2364063,
+            "Digestive Diseases",
+            4.61115258675548
+        ],
+        "Fire, Heat, and Hot Substances": [
+            110102,
+            "Fire, Heat, and Hot Substances",
+            0.2147561727868301
+        ],
+        "Acute Hepatitis": [
+            92845,
+            "Acute Hepatitis",
+            0.18109604605178142
+        ]
+    },
+    "2015": {
+        "Meningitis": [
+            267789,
+            "Meningitis",
+            0.5164049879057342
+        ],
+        "Alzheimer's Disease and Other Dementias": [
+            1394942,
+            "Alzheimer's Disease and Other Dementias",
+            2.690009696586494
+        ],
+        "Parkinson's Disease": [
+            321782,
+            "Parkinson's Disease",
+            0.6205252262724867
+        ],
+        "Nutritional Deficiencies": [
+            278793,
+            "Nutritional Deficiencies",
+            0.5376251294608941
+        ],
+        "Malaria": [
+            702890,
+            "Malaria",
+            1.3554548616599693
+        ],
+        "Drowning": [
+            254237,
+            "Drowning",
+            0.49027127667749665
+        ],
+        "Interpersonal Violence": [
+            416362,
+            "Interpersonal Violence",
+            0.8029135385486608
+        ],
+        "Maternal Disorders": [
+            208450,
+            "Maternal Disorders",
+            0.4019755095577126
+        ],
+        "HIV/AIDS": [
+            1029667,
+            "HIV/AIDS",
+            1.9856124586220256
+        ],
+        "Drug Use Disorders": [
+            105401,
+            "Drug Use Disorders",
+            0.20325555616643062
+        ],
+        "Tuberculosis": [
+            1267556,
+            "Tuberculosis",
+            2.4443582105681743
+        ],
+        "Cardiovascular Diseases": [
+            17089707,
+            "Cardiovascular Diseases",
+            32.95583439442076
+        ],
+        "Lower Respiratory Infections": [
+            2533068,
+            "Lower Respiratory Infections",
+            4.88477476634366
+        ],
+        "Neonatal Disorders": [
+            2183143,
+            "Neonatal Disorders",
+            4.209978507375165
+        ],
+        "Alcohol Use Disorders": [
+            160713,
+            "Alcohol Use Disorders",
+            0.30991935748404253
+        ],
+        "Self-harm": [
+            742648,
+            "Self-harm",
+            1.4321242898633542
+        ],
+        "Exposure to Forces of Nature": [
+            15583,
+            "Exposure to Forces of Nature",
+            0.030050296787900384
+        ],
+        "Diarrheal Diseases": [
+            1679043,
+            "Diarrheal Diseases",
+            3.23787078673212
+        ],
+        "Environmental Heat and Cold Exposure": [
+            51665,
+            "Environmental Heat and Cold Exposure",
+            0.09963091725257482
+        ],
+        "Neoplasms": [
+            9133616,
+            "Neoplasms",
+            17.613288297934645
+        ],
+        "Conflict and Terrorism": [
+            167030,
+            "Conflict and Terrorism",
+            0.3221010763320928
+        ],
+        "Diabetes Mellitus": [
+            1366100,
+            "Diabetes Mellitus",
+            2.634390710514709
+        ],
+        "Chronic Kidney Disease": [
+            1286935,
+            "Chronic Kidney Disease",
+            2.4817287233996397
+        ],
+        "Poisonings": [
+            80974,
+            "Poisonings",
+            0.15615046731075183
+        ],
+        "Protein-Energy Malnutrition": [
+            237723,
+            "Protein-Energy Malnutrition",
+            0.45842563712443324
+        ],
+        "Road Injuries": [
+            1201418,
+            "Road Injuries",
+            2.3168175233476034
+        ],
+        "Chronic Respiratory Diseases": [
+            3690907,
+            "Chronic Respiratory Diseases",
+            7.117554435380804
+        ],
+        "Cirrhosis and Other Chronic Liver Diseases": [
+            1384947,
+            "Cirrhosis and Other Chronic Liver Diseases",
+            2.6707353131946525
+        ],
+        "Digestive Diseases": [
+            2404387,
+            "Digestive Diseases",
+            4.636625999035451
+        ],
+        "Fire, Heat, and Hot Substances": [
+            110167,
+            "Fire, Heat, and Hot Substances",
+            0.21244632267423616
+        ],
+        "Acute Hepatitis": [
+            88750,
+            "Acute Hepatitis",
+            0.171145725465325
+        ]
+    },
+    "2016": {
+        "Meningitis": [
+            261246,
+            "Meningitis",
+            0.4991570565122268
+        ],
+        "Alzheimer's Disease and Other Dementias": [
+            1451840,
+            "Alzheimer's Disease and Other Dementias",
+            2.773999146117879
+        ],
+        "Parkinson's Disease": [
+            330736,
+            "Parkinson's Disease",
+            0.6319300898104769
+        ],
+        "Nutritional Deficiencies": [
+            273191,
+            "Nutritional Deficiencies",
+            0.5219801085016872
+        ],
+        "Malaria": [
+            660364,
+            "Malaria",
+            1.2617431480927561
+        ],
+        "Drowning": [
+            248811,
+            "Drowning",
+            0.4753977721682387
+        ],
+        "Interpersonal Violence": [
+            412500,
+            "Interpersonal Violence",
+            0.7881547882505132
+        ],
+        "Maternal Disorders": [
+            203737,
+            "Maternal Disorders",
+            0.3892758596213208
+        ],
+        "HIV/AIDS": [
+            996098,
+            "HIV/AIDS",
+            1.9032228079194173
+        ],
+        "Drug Use Disorders": [
+            112875,
+            "Drug Use Disorders",
+            0.21566781023945863
+        ],
+        "Tuberculosis": [
+            1249524,
+            "Tuberculosis",
+            2.387438360324689
+        ],
+        "Cardiovascular Diseases": [
+            17398709,
+            "Cardiovascular Diseases",
+            33.24333529146012
+        ],
+        "Lower Respiratory Infections": [
+            2516135,
+            "Lower Respiratory Infections",
+            4.807524480326557
+        ],
+        "Neonatal Disorders": [
+            2099079,
+            "Neonatal Disorders",
+            4.010664641857209
+        ],
+        "Alcohol Use Disorders": [
+            162047,
+            "Alcohol Use Disorders",
+            0.3096196823554689
+        ],
+        "Self-harm": [
+            742925,
+            "Self-harm",
+            1.4194906571176062
+        ],
+        "Exposure to Forces of Nature": [
+            8672,
+            "Exposure to Forces of Nature",
+            0.01656940199686897
+        ],
+        "Diarrheal Diseases": [
+            1639826,
+            "Diarrheal Diseases",
+            3.133179912236815
+        ],
+        "Environmental Heat and Cold Exposure": [
+            47495,
+            "Environmental Heat and Cold Exposure",
+            0.09074766464959545
+        ],
+        "Neoplasms": [
+            9336894,
+            "Neoplasms",
+            17.839800517545424
+        ],
+        "Conflict and Terrorism": [
+            161637,
+            "Conflict and Terrorism",
+            0.30883630426290476
+        ],
+        "Diabetes Mellitus": [
+            1412896,
+            "Diabetes Mellitus",
+            2.6995896913939323
+        ],
+        "Chronic Kidney Disease": [
+            1325004,
+            "Chronic Kidney Disease",
+            2.531656356487474
+        ],
+        "Poisonings": [
+            79951,
+            "Poisonings",
+            0.1527606387282831
+        ],
+        "Protein-Energy Malnutrition": [
+            232544,
+            "Protein-Energy Malnutrition",
+            0.4443167686761875
+        ],
+        "Road Injuries": [
+            1193556,
+            "Road Injuries",
+            2.2805015186548596
+        ],
+        "Chronic Respiratory Diseases": [
+            3740794,
+            "Chronic Respiratory Diseases",
+            7.147453825354644
+        ],
+        "Cirrhosis and Other Chronic Liver Diseases": [
+            1404134,
+            "Cirrhosis and Other Chronic Liver Diseases",
+            2.682848328352354
+        ],
+        "Digestive Diseases": [
+            2439649,
+            "Digestive Diseases",
+            4.661384341819579
+        ],
+        "Fire, Heat, and Hot Substances": [
+            109840,
+            "Fire, Heat, and Hot Substances",
+            0.2098689016762094
+        ],
+        "Acute Hepatitis": [
+            84726,
+            "Acute Hepatitis",
+            0.1618841274892436
+        ]
+    },
+    "2017": {
+        "Meningitis": [
+            250132,
+            "Meningitis",
+            0.4738267601075193
+        ],
+        "Alzheimer's Disease and Other Dementias": [
+            1509646,
+            "Alzheimer's Disease and Other Dementias",
+            2.859732753463276
+        ],
+        "Parkinson's Disease": [
+            339343,
+            "Parkinson's Disease",
+            0.6428197681830631
+        ],
+        "Nutritional Deficiencies": [
+            267463,
+            "Nutritional Deficiencies",
+            0.5066569920627406
+        ],
+        "Malaria": [
+            629653,
+            "Malaria",
+            1.1927559887658512
+        ],
+        "Drowning": [
+            241842,
+            "Drowning",
+            0.45812295635073763
+        ],
+        "Interpersonal Violence": [
+            417143,
+            "Interpersonal Violence",
+            0.7901968408341633
+        ],
+        "Maternal Disorders": [
+            199197,
+            "Maternal Disorders",
+            0.37734024088536267
+        ],
+        "HIV/AIDS": [
+            947006,
+            "HIV/AIDS",
+            1.7939199493962448
+        ],
+        "Drug Use Disorders": [
+            118324,
+            "Drug Use Disorders",
+            0.22414196329522856
+        ],
+        "Tuberculosis": [
+            1231689,
+            "Tuberculosis",
+            2.3331969053542547
+        ],
+        "Cardiovascular Diseases": [
+            17685890,
+            "Cardiovascular Diseases",
+            33.50250251194559
+        ],
+        "Lower Respiratory Infections": [
+            2487918,
+            "Lower Respiratory Infections",
+            4.712880100719538
+        ],
+        "Neonatal Disorders": [
+            2014896,
+            "Neonatal Disorders",
+            3.8168312876145407
+        ],
+        "Alcohol Use Disorders": [
+            162599,
+            "Alcohol Use Disorders",
+            0.3080123989202602
+        ],
+        "Self-harm": [
+            743620,
+            "Self-harm",
+            1.4086444571312489
+        ],
+        "Exposure to Forces of Nature": [
+            13309,
+            "Exposure to Forces of Nature",
+            0.025211329818939497
+        ],
+        "Diarrheal Diseases": [
+            1632183,
+            "Diarrheal Diseases",
+            3.091855431502452
+        ],
+        "Environmental Heat and Cold Exposure": [
+            46276,
+            "Environmental Heat and Cold Exposure",
+            0.08766094362470842
+        ],
+        "Neoplasms": [
+            9529491,
+            "Neoplasms",
+            18.051780044151748
+        ],
+        "Conflict and Terrorism": [
+            130737,
+            "Conflict and Terrorism",
+            0.2476559941797801
+        ],
+        "Diabetes Mellitus": [
+            1454681,
+            "Diabetes Mellitus",
+            2.7556121776500664
+        ],
+        "Chronic Kidney Disease": [
+            1351349,
+            "Chronic Kidney Disease",
+            2.559869662596294
+        ],
+        "Poisonings": [
+            78484,
+            "Poisonings",
+            0.1486727785340482
+        ],
+        "Protein-Energy Malnutrition": [
+            227038,
+            "Protein-Energy Malnutrition",
+            0.4300796377964074
+        ],
+        "Road Injuries": [
+            1188281,
+            "Road Injuries",
+            2.250968833765065
+        ],
+        "Chronic Respiratory Diseases": [
+            3795946,
+            "Chronic Respiratory Diseases",
+            7.19068649642228
+        ],
+        "Cirrhosis and Other Chronic Liver Diseases": [
+            1425956,
+            "Cirrhosis and Other Chronic Liver Diseases",
+            2.7011982134867907
+        ],
+        "Digestive Diseases": [
+            2478029,
+            "Digestive Diseases",
+            4.694147300315338
+        ],
+        "Fire, Heat, and Hot Substances": [
+            109165,
+            "Fire, Heat, and Hot Substances",
+            0.20679200688891206
+        ],
+        "Acute Hepatitis": [
+            82472,
+            "Acute Hepatitis",
+            0.15622727423755192
+        ]
+    },
+    "2018": {
+        "Meningitis": [
+            241666,
+            "Meningitis",
+            0.4513304673707342
+        ],
+        "Alzheimer's Disease and Other Dementias": [
+            1568617,
+            "Alzheimer's Disease and Other Dementias",
+            2.92951695205647
+        ],
+        "Parkinson's Disease": [
+            351322,
+            "Parkinson's Disease",
+            0.6561217649881286
+        ],
+        "Nutritional Deficiencies": [
+            258094,
+            "Nutritional Deficiencies",
+            0.4820110633915498
+        ],
+        "Malaria": [
+            631568,
+            "Malaria",
+            1.1795034494566874
+        ],
+        "Drowning": [
+            240266,
+            "Drowning",
+            0.448715856071176
+        ],
+        "Interpersonal Violence": [
+            419249,
+            "Interpersonal Violence",
+            0.7829808376631919
+        ],
+        "Maternal Disorders": [
+            198069,
+            "Maternal Disorders",
+            0.36990960392299266
+        ],
+        "HIV/AIDS": [
+            892341,
+            "HIV/AIDS",
+            1.6665177583278918
+        ],
+        "Drug Use Disorders": [
+            123095,
+            "Drug Use Disorders",
+            0.2298896985136532
+        ],
+        "Tuberculosis": [
+            1204916,
+            "Tuberculosis",
+            2.2502764204417485
+        ],
+        "Cardiovascular Diseases": [
+            18113910,
+            "Cardiovascular Diseases",
+            33.82916697512855
+        ],
+        "Lower Respiratory Infections": [
+            2486438,
+            "Lower Respiratory Infections",
+            4.643620636036321
+        ],
+        "Neonatal Disorders": [
+            1942350,
+            "Neonatal Disorders",
+            3.6274930412120265
+        ],
+        "Alcohol Use Disorders": [
+            165462,
+            "Alcohol Use Disorders",
+            0.3090134391767829
+        ],
+        "Self-harm": [
+            755125,
+            "Self-harm",
+            1.410255969699195
+        ],
+        "Exposure to Forces of Nature": [
+            11082,
+            "Exposure to Forces of Nature",
+            0.0206965160155027
+        ],
+        "Diarrheal Diseases": [
+            1577953,
+            "Diarrheal Diseases",
+            2.946952674265524
+        ],
+        "Environmental Heat and Cold Exposure": [
+            46272,
+            "Environmental Heat and Cold Exposure",
+            0.08641663860939731
+        ],
+        "Neoplasms": [
+            9791758,
+            "Neoplasms",
+            18.286886506670882
+        ],
+        "Conflict and Terrorism": [
+            103407,
+            "Conflict and Terrorism",
+            0.19312079332386645
+        ],
+        "Diabetes Mellitus": [
+            1501633,
+            "Diabetes Mellitus",
+            2.8044190068496095
+        ],
+        "Chronic Kidney Disease": [
+            1387668,
+            "Chronic Kidney Disease",
+            2.5915803091680747
+        ],
+        "Poisonings": [
+            77805,
+            "Poisonings",
+            0.145307022972946
+        ],
+        "Protein-Energy Malnutrition": [
+            218222,
+            "Protein-Energy Malnutrition",
+            0.40754693358013266
+        ],
+        "Road Injuries": [
+            1195919,
+            "Road Injuries",
+            2.2334738076830876
+        ],
+        "Chronic Respiratory Diseases": [
+            3886637,
+            "Chronic Respiratory Diseases",
+            7.258603583914941
+        ],
+        "Cirrhosis and Other Chronic Liver Diseases": [
+            1447651,
+            "Cirrhosis and Other Chronic Liver Diseases",
+            2.703603330297645
+        ],
+        "Digestive Diseases": [
+            2515213,
+            "Digestive Diseases",
+            4.69736023613974
+        ],
+        "Fire, Heat, and Hot Substances": [
+            110642,
+            "Fire, Heat, and Hot Substances",
+            0.20663273100408322
+        ],
+        "Acute Hepatitis": [
+            80894,
+            "Acute Hepatitis",
+            0.1510759760474712
+        ]
+    },
+    "2019": {
+        "Meningitis": [
+            236084,
+            "Meningitis",
+            0.43427394996442426
+        ],
+        "Alzheimer's Disease and Other Dementias": [
+            1622426,
+            "Alzheimer's Disease and Other Dementias",
+            2.9844349788421964
+        ],
+        "Parkinson's Disease": [
+            362702,
+            "Parkinson's Disease",
+            0.6671863836600389
+        ],
+        "Nutritional Deficiencies": [
+            251411,
+            "Nutritional Deficiencies",
+            0.462467799742913
+        ],
+        "Malaria": [
+            643201,
+            "Malaria",
+            1.1831612429943057
+        ],
+        "Drowning": [
+            237069,
+            "Drowning",
+            0.4360858467499539
+        ],
+        "Interpersonal Violence": [
+            414157,
+            "Interpersonal Violence",
+            0.7618372964513311
+        ],
+        "Maternal Disorders": [
+            196306,
+            "Maternal Disorders",
+            0.3611027516549884
+        ],
+        "HIV/AIDS": [
+            863056,
+            "HIV/AIDS",
+            1.5875821239918682
+        ],
+        "Drug Use Disorders": [
+            128048,
+            "Drug Use Disorders",
+            0.23554290314059656
+        ],
+        "Tuberculosis": [
+            1179234,
+            "Tuberculosis",
+            2.1691881157229966
+        ],
+        "Cardiovascular Diseases": [
+            18552218,
+            "Cardiovascular Diseases",
+            34.1266032067446
+        ],
+        "Lower Respiratory Infections": [
+            2491472,
+            "Lower Respiratory Infections",
+            4.583035642677031
+        ],
+        "Neonatal Disorders": [
+            1881372,
+            "Neonatal Disorders",
+            3.4607633291221296
+        ],
+        "Alcohol Use Disorders": [
+            167932,
+            "Alcohol Use Disorders",
+            0.30890908729700317
+        ],
+        "Self-harm": [
+            758697,
+            "Self-harm",
+            1.3956148786709766
+        ],
+        "Exposure to Forces of Nature": [
+            6072,
+            "Exposure to Forces of Nature",
+            0.011169377951000425
+        ],
+        "Diarrheal Diseases": [
+            1533777,
+            "Diarrheal Diseases",
+            2.821366107633659
+        ],
+        "Environmental Heat and Cold Exposure": [
+            47442,
+            "Environmental Heat and Cold Exposure",
+            0.08726904294324146
+        ],
+        "Neoplasms": [
+            10074275,
+            "Neoplasms",
+            18.5315192782139
+        ],
+        "Conflict and Terrorism": [
+            62932,
+            "Conflict and Terrorism",
+            0.11576272944867569
+        ],
+        "Diabetes Mellitus": [
+            1549593,
+            "Diabetes Mellitus",
+            2.8504594675929846
+        ],
+        "Chronic Kidney Disease": [
+            1426280,
+            "Chronic Kidney Disease",
+            2.623626545446786
+        ],
+        "Poisonings": [
+            77130,
+            "Poisonings",
+            0.1418797960080143
+        ],
+        "Protein-Energy Malnutrition": [
+            212080,
+            "Protein-Energy Malnutrition",
+            0.3901188530711743
+        ],
+        "Road Injuries": [
+            1197575,
+            "Road Injuries",
+            2.202926185716293
+        ],
+        "Chronic Respiratory Diseases": [
+            3972681,
+            "Chronic Respiratory Diseases",
+            7.307703486126204
+        ],
+        "Cirrhosis and Other Chronic Liver Diseases": [
+            1471148,
+            "Cirrhosis and Other Chronic Liver Diseases",
+            2.70616074338906
+        ],
+        "Digestive Diseases": [
+            2556209,
+            "Digestive Diseases",
+            4.702118649991576
+        ],
+        "Fire, Heat, and Hot Substances": [
+            111199,
+            "Fire, Heat, and Hot Substances",
+            0.2045493509178683
+        ],
+        "Acute Hepatitis": [
+            79142,
+            "Acute Hepatitis",
+            0.1455808481222127
+        ]
+    }
+}
